@@ -1,0 +1,50 @@
+export interface Provider {
+  id: string;
+  firstName: string;
+  middleInitial?: string;
+  lastName: string;
+  degree: string;
+  type: string;
+  specialtyName: string;
+  addressLine1: string;
+  addressLine2?: string;
+  addressLine3?: string;
+  city: string;
+  state: string;
+  county: string;
+  country: string;
+  zipCode: string;
+  latitude: number;
+  longitude: number;
+  phoneNumber: string;
+  emailId?: string;
+  yearOfExperience: number;
+  acceptingNewPatients: boolean;
+  rating: number;
+  planName: string;
+  acceptedAllPlans: boolean;
+  affiliationName: string;
+  boardName: string;
+  boardCertified: boolean;
+  workingHours: string;
+  race?: string;
+  gender: string;
+  languagesSpoken: string[];
+  npiId: string;
+  virtualCareAvailable: boolean;
+  hospitalAffiliations: boolean;
+}
+export interface SearchFilters {
+  name: string;
+  specialty: string;
+  location: string;
+  distance: number;
+  acceptingNewPatients?: boolean;
+  languagesSpoken: string[];
+  gender?: string;
+  virtualCare?: boolean;
+  hospitalAffiliations?: boolean;
+  boardCertified?: boolean;
+  minExperience: number;
+  sortBy: 'rating' | 'name-asc' | 'name-desc' | 'experience';
+}

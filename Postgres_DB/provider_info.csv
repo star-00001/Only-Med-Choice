@@ -1,0 +1,1001 @@
+ProviderID,ProviderFirstName,ProviderMiddleInitial,ProviderLastName,ProviderNameSuffix,ProviderType,ProviderGender,ProviderRaceEthnicity,ProviderDOB,ProviderAge,ProviderNPI
+9cce144a-a1e2-4d09-b5c5-6af3c93c2ef3,Kyle,U,Harris,MD,Dentist,Female,Native American,1968-02-12,57,6798633999
+6de87d10-a676-40a6-8f74-fe5f86a68327,Jerry,V,Nelson,Sr.,Pediatrician,Other,Other,1950-12-16,75,9280847971
+b1f9f8b9-d074-4bde-9de1-56ee5f807ded,Anthony,J,Ball,Jr.,Pediatrician,Other,Native American,1963-08-09,62,4282444562
+22f83106-4e2d-4c64-8d94-af4b260aaa4f,Lori,P,Lopez,II,Pediatrician,Other,Asian,1948-01-25,77,6625920079
+70e78c27-6acc-4f4e-b68e-d6a19e4df317,Melinda,W,Evans,PhD,Neurologist,Male,Black or African American,1981-10-26,44,9412928966
+ec794cf5-db73-495c-b537-9f04a4838730,Amy,O,Hatfield,II,Cardiologist,Female,White,1953-02-12,72,5986682140
+0771df48-3857-48af-8640-516b3af6ef00,Charles,Y,Smith,MD,General Practitioner,Female,White,1948-09-08,77,4764526082
+8b56088e-3c02-429e-b522-586325be2907,Daniel,K,Johns,MD,Pediatrician,Male,White,2000-05-16,25,1655397988
+0d3f7937-cc5a-4d6f-83b9-4e07cdc35479,Teresa,R,Medina,II,General Practitioner,Other,Asian,1979-12-09,46,7966609762
+d075e02a-594b-4d20-ad16-fb60423c3498,James,I,Thomas,PhD,Pediatrician,Female,Hispanic or Latino,1981-06-26,44,7216609780
+405cb933-321d-435a-92cf-3d95f160f3dc,Daniel,F,Shaw,None,Cardiologist,Other,Other,1946-09-21,79,2814836957
+40993c5a-fcc2-4818-a7be-96b4b22239ec,Jeremy,M,Woods,PhD,General Practitioner,Male,White,1983-10-02,42,2808898936
+b51b3ebc-1c24-4efd-8020-60b6f42fdf8d,Darlene,E,Morgan,Jr.,General Practitioner,Other,Asian,1961-04-25,64,9102537478
+df0d3f76-78c9-453f-b23a-d61d895a7b8a,Rebecca,M,Walters,PhD,Neurologist,Female,Other,1972-06-20,53,4050511098
+85473c77-2574-44b8-b979-114e5107f22a,Hannah,X,Townsend,II,General Practitioner,Female,Asian,1970-12-13,55,8965202713
+f5aa8ddf-9655-43aa-ab30-e0172eea0828,Jennifer,B,Mullen,MD,Neurologist,Male,Asian,1993-07-30,32,3808925476
+ecf652f9-46ca-497a-88e5-a2042b76f9a2,Lindsay,E,Bennett,PhD,Dentist,Other,White,1975-02-17,50,5783239024
+58eab510-fcba-4b11-8292-ff57f85b240b,Jasmine,I,Prince,None,Neurologist,Other,Hispanic or Latino,1968-04-30,57,6960529373
+03d8303d-b678-4220-a8d7-f0d3863e9fe0,Tony,W,Johnson,III,Pediatrician,Female,White,1973-12-25,52,4751694244
+80069fb2-8c38-42a5-8488-01f7b93bd013,Jeffrey,V,Braun,MD,General Practitioner,Male,Other,1947-09-23,78,4117584639
+405e62cc-620e-482c-a26b-470e25687be3,Joseph,E,Parks,PhD,Pediatrician,Female,Hispanic or Latino,1968-04-13,57,2389701640
+3bdec61b-b1d7-4f6d-bc5f-8a873bb6eced,John,D,Hernandez,Jr.,Pediatrician,Male,Black or African American,1985-02-01,40,8626874957
+aebb84d3-5c79-4921-ae0a-4e6dd3fae96d,Nathan,J,Jensen,None,Dentist,Female,Black or African American,1958-02-09,67,3181025795
+c4fe0c44-1ce7-431f-830b-0ffd5ef44067,David,J,Morris,II,Neurologist,Female,Hispanic or Latino,1950-07-05,75,2907994625
+3a74387c-cade-4433-8bd3-157412b302a8,Stacy,F,Johnson,PhD,General Practitioner,Other,White,1958-07-06,67,4134282688
+e46571fe-07e4-45a6-893d-f07cd9dd9117,Katherine,I,Hamilton,Jr.,Cardiologist,Female,Other,1981-05-03,44,5911559301
+7ef37887-1877-4be9-86f2-c6fceca52d5a,Miguel,C,Daniels,None,Pediatrician,Male,Asian,1970-07-25,55,8873554685
+58983713-d051-4e41-98b9-1ad68d3d9522,Candace,X,Howard,Sr.,General Practitioner,Other,Hispanic or Latino,1956-01-02,69,8841578107
+a5bab3fc-694f-4dc5-85b1-05a5ad78a7af,Caroline,J,Fitzgerald,MD,General Practitioner,Female,Black or African American,1971-05-02,54,5233630627
+2d8659ca-c760-4839-8ddd-4f7e25de2bc7,Kristen,K,Fox,PhD,Cardiologist,Other,Hispanic or Latino,1972-09-25,53,2245142124
+58c398f7-0812-4e97-8a0b-bcfe1b5dbf21,Johnny,S,Davidson,MD,Neurologist,Male,Native American,1980-10-20,45,1693620329
+520bc35d-cdd1-4007-b1af-7bd374e41250,Briana,I,Price,MD,Dentist,Male,Hispanic or Latino,1986-05-02,39,9279032766
+61003682-6150-4367-9417-7b2cfdfbe9b8,April,G,Woods,PhD,Cardiologist,Male,Hispanic or Latino,1996-06-12,29,4541969107
+796228d5-1e00-4e63-b294-a519bed89701,Daisy,H,Montgomery,Jr.,Neurologist,Other,Black or African American,1995-09-13,30,3660590021
+62451773-ac86-4ce6-a61d-3ace3ba77955,Sarah,A,Jimenez,None,General Practitioner,Female,Hispanic or Latino,1978-06-20,47,5588016350
+92f56086-f0c7-4792-b7ea-925d2657d2f6,Catherine,W,Scott,None,General Practitioner,Male,Native American,1994-05-16,31,2993548743
+4cd5d6ac-e0ca-4945-a5e9-f2e3105bffa9,Julie,R,Meza,MD,Pediatrician,Female,Asian,1950-09-20,75,8142809779
+dd813dc4-1366-4aa3-ae19-8499e145c826,Ashley,Z,Ramirez,None,General Practitioner,Male,Native American,1963-04-04,62,4031574291
+6a111c9f-f2c2-4e07-be66-8c8cad8ea67c,Adam,B,Davis,II,Neurologist,Male,White,1958-05-31,67,1890232298
+f5cf9a2c-f1ed-435f-97da-8d9713e2293b,Gloria,V,Bass,None,Neurologist,Other,Native American,1957-06-14,68,2122152731
+b0956c5b-d918-4445-94fa-3890e7f4aeac,Jacob,S,Hanson,III,General Practitioner,Male,Native American,1965-03-23,60,6804466920
+5effb935-5090-4af6-a276-6f49028efa7f,Nicole,B,Melendez,PhD,Pediatrician,Female,Asian,1995-04-10,30,4234824153
+afbb8da0-1ad9-4e9b-8eb4-59c02959cc3f,Phillip,V,Robinson,PhD,Pediatrician,Male,Black or African American,1971-08-18,54,9060178815
+88229580-f7e9-4e95-8add-135709284134,Christopher,V,Alvarado,PhD,Neurologist,Female,Other,1987-02-03,38,7063502886
+b3ce6a89-ee48-4fd0-b4e5-a897d7fe4544,Victor,E,Ware,MD,General Practitioner,Female,White,1946-10-03,79,3198514262
+63e6f90b-6c5e-4228-83b8-c77f9db76e8c,Connor,F,Harrington,MD,Dentist,Other,White,1958-08-18,67,8752128426
+b4ed3446-cb1e-472c-91a8-1749ec3b4891,Jeremy,L,Bennett,Jr.,Dentist,Female,Other,1950-08-07,75,3644720726
+f30d824a-7137-4ceb-8e9e-db40ab2f349d,Paul,T,Noble,None,Dentist,Other,Asian,1963-02-07,62,4280833635
+fa4a3ba4-8f7c-4178-b69d-eb516023717d,Katelyn,B,Trevino,Jr.,Dentist,Male,Other,1979-11-14,46,7125437469
+d2e1594a-3439-498b-8160-5e22c0316398,Peter,I,Donovan,MD,Pediatrician,Other,Other,1947-07-01,78,2800544273
+be65a248-e6b2-4e58-b809-3c57948d5a80,Jennifer,J,Davis,II,General Practitioner,Other,White,1987-02-04,38,8467959813
+36837759-3a72-46ef-a614-4dfa96ca523c,Stefanie,Z,Cordova,Jr.,General Practitioner,Female,Asian,1991-04-25,34,7515453240
+7ced3223-39e9-4665-846d-a318da87ab19,Tammy,Q,Buckley,Jr.,Pediatrician,Female,Hispanic or Latino,1971-04-19,54,7520306756
+38407f8a-0d16-42f1-8a34-4c29cf9de508,David,Z,Smith,Sr.,Neurologist,Male,Other,1970-07-22,55,9064206471
+37c27e78-fad2-428b-864e-0018499a4697,George,W,Bowers,MD,Cardiologist,Female,Native American,1955-04-10,70,5696736824
+ebb44c98-2f95-4fe7-8b6a-f91face14769,Angela,V,Smith,Sr.,Cardiologist,Male,Asian,1946-03-08,79,5539190812
+011d7b5d-c89c-4fde-9c5d-fc1bf1ea87b9,Kelsey,T,Owen,Jr.,Cardiologist,Male,Black or African American,1996-07-24,29,2437894137
+e2899908-098d-452a-94be-6e2f38caa0bc,Jeffrey,B,Bowman,Sr.,Neurologist,Male,Asian,1963-01-06,62,9676629102
+4aa85d29-41e8-47ea-97eb-71600e185ee5,Katherine,C,Wang,Sr.,Cardiologist,Male,White,1965-05-12,60,3432143878
+14b842b1-8da0-407b-aa05-bcc4a1bc9d72,Erik,V,Soto,None,Cardiologist,Other,Other,1968-07-24,57,6343185099
+7554c3ea-f22e-434b-8017-72f8ee6b8e23,Nancy,R,Wagner,PhD,Neurologist,Female,White,1950-03-14,75,6861354476
+a5df2d84-41bf-4028-8a8c-c8d45e266b6a,Angela,O,Osborne,PhD,Cardiologist,Other,Other,1968-03-05,57,4702468219
+34a96adf-668c-4569-a77f-8e1ca34dab28,Theresa,K,Sweeney,None,Dentist,Other,Asian,1978-09-05,47,6161878760
+54103731-fb3d-4b97-b839-596c2f0c25a9,Kenneth,M,Hawkins,Jr.,Dentist,Male,White,1955-11-01,70,4308542723
+5936c7c4-9c23-4a2e-8c91-32234e59f6b6,Ethan,J,Lane,II,General Practitioner,Female,Black or African American,1956-03-04,69,5818556419
+3a94d889-00fa-476d-b70c-20047cfd251f,Corey,M,Jones,MD,Dentist,Female,White,1987-03-09,38,7372922107
+aa979b99-077d-4dda-afaf-01c76d36a4cd,Matthew,X,Hood,II,Neurologist,Male,Asian,1964-12-01,61,4231249447
+f4c2883a-a780-4540-9081-bb613d5f3016,Marilyn,M,Ross,PhD,Cardiologist,Male,White,1986-04-25,39,4313863105
+f1a69259-1d65-4c0c-ae58-9422a6091ae7,Scott,Q,Gibson,PhD,General Practitioner,Female,White,1979-06-24,46,7478986959
+d36a0892-ba61-40d3-a3cf-912ecb58ed55,Renee,T,Richardson,Sr.,General Practitioner,Female,Other,1991-12-19,34,7951050708
+0198128f-da8c-4281-a7b9-a722de37368d,Randy,X,Perez,PhD,Pediatrician,Other,Native American,1964-03-04,61,4900647758
+b5e0b7d5-751f-48f8-9d44-ab68d80a338b,Nicole,C,Dunn,PhD,General Practitioner,Male,Hispanic or Latino,1950-06-26,75,9126709984
+d03275de-9296-442e-8b34-34d3bb5ddc7d,Jon,Y,Nielsen,None,Neurologist,Male,White,1965-10-27,60,8570379033
+2a25c33b-675b-43f1-a48c-6362037563fd,Laura,X,Escobar,II,General Practitioner,Other,Native American,1973-06-27,52,7469070710
+364ead85-392c-4378-94d9-c1f1964b4aff,Gerald,J,Thompson,II,Dentist,Female,White,1964-07-01,61,5799595881
+3de6cced-f8b0-45ac-b037-9260238186c0,Christine,N,Hill,Sr.,Cardiologist,Male,Other,1954-12-26,71,9520469911
+e30a1cf7-f0ca-44a5-bb4b-ef60a3a87d6d,James,A,Hurley,MD,Cardiologist,Other,White,1997-01-25,28,8381528436
+dc07e21c-7de9-4473-b863-0e76bdb4aad3,Jason,W,Schaefer,Sr.,Pediatrician,Female,Hispanic or Latino,1968-10-07,57,8248065677
+63c1158c-6dd8-43b6-afa3-eeca8312126f,Laura,U,Diaz,II,Dentist,Male,White,1986-12-04,39,9326205104
+78d36cbe-4fd6-4af6-911d-a62ff72dfdad,Victoria,V,Richardson,PhD,Pediatrician,Male,Hispanic or Latino,1990-04-27,35,2096478330
+905ea4e8-7d2b-49b9-8d76-2be6b9cf710e,Rebekah,V,Young,Sr.,General Practitioner,Male,Black or African American,1952-12-05,73,4713276667
+0e646161-1d19-4b8b-bbdd-dbc4af838eca,Aaron,U,Olson,III,Neurologist,Male,Other,1994-08-07,31,4737389046
+b4441ba7-e9ea-4e4b-9ed1-d62f172bb394,Debbie,X,Thomas,III,General Practitioner,Female,Other,1977-12-20,48,6109745115
+211885d8-efbf-47dd-8da8-b682ee071ad3,Sarah,L,Robinson,PhD,Dentist,Female,Other,1961-05-23,64,8550420341
+03b397ee-fd91-43b9-8d18-6695a04b1613,Riley,E,Lawrence,None,Neurologist,Other,Native American,1964-01-29,61,3499978607
+908f31ad-4c5b-4dfb-9fef-f6a0f910eed6,Christine,Q,Manning,II,General Practitioner,Female,Other,1979-01-03,46,6630215105
+9e4747eb-f566-4438-a7b3-670421d7b6d5,Michael,P,Wagner,None,Neurologist,Other,Black or African American,1957-03-23,68,1554717622
+ac657077-fc1d-4a72-b8d5-8d79549263f3,Robert,O,Miller,MD,Dentist,Male,White,1992-11-24,33,1130863233
+dbb54508-b49b-48cd-8906-cb874f6b89d3,Kenneth,Q,Williams,Sr.,Neurologist,Female,Native American,1959-09-10,66,1146541526
+ae064b1b-ad19-45a8-81c3-6219ed180155,Brittany,N,Kelley,Sr.,Pediatrician,Male,Other,1958-07-17,67,9519362919
+88291d97-d60a-4df3-9209-97dad08b3602,Stephanie,A,Wallace,III,Dentist,Other,White,1953-11-09,72,4865730620
+88d14c74-d30c-4ef3-a625-23c9b3642dca,Andrea,Z,Walton,MD,Neurologist,Male,White,1955-07-19,70,4091087856
+25f55abe-a3b8-487c-b7cc-fbd5eb4c687d,Kimberly,V,Smith,II,Pediatrician,Other,Asian,1962-12-04,63,2990163787
+75c540a0-fce9-48ec-b643-8e2559f41856,Tiffany,H,Velasquez,Jr.,General Practitioner,Other,Other,1984-01-07,41,8128103707
+aeb5a877-8528-45f7-9bac-5fdf946c5287,Ashley,V,Dean,II,Cardiologist,Male,Black or African American,1983-07-18,42,3772707972
+36e2ba78-7315-44d8-ad08-1d8bd07c2651,Kelsey,T,Price,MD,General Practitioner,Female,Asian,1997-02-12,28,2049635376
+a765f1c7-685a-4e39-855f-4d8d54f15743,Jason,A,Pierce,III,Pediatrician,Male,Native American,1954-05-01,71,3726868242
+00915b1b-872e-4c84-ab53-c9c8b55e56fc,Benjamin,Z,Jackson,PhD,Neurologist,Female,Other,1989-05-28,36,2865262834
+8add2a87-3e58-403d-bc79-5d420706eae3,Mary,W,Carroll,II,Neurologist,Male,Hispanic or Latino,1990-02-18,35,5701950471
+a787b00a-b16e-47c4-b230-021c14a8798d,Juan,C,Palmer,None,Dentist,Other,Other,2000-04-30,25,8721096628
+06c47b90-9199-4c12-b950-42378d999569,Kelly,D,Bishop,MD,Neurologist,Male,Native American,1957-04-10,68,7792465967
+f735cde1-2274-4383-ae07-1d3f14e2688f,Theresa,E,Ellis,Jr.,Neurologist,Male,Hispanic or Latino,1990-10-14,35,9927189067
+843176e2-d4fd-4b38-8421-347ab2aad1eb,Angela,Q,Williams,Jr.,Dentist,Female,Black or African American,1956-05-23,69,5343644800
+e31ce2ff-0f5d-4867-90b6-31a8da28a520,Christine,N,Hill,III,Pediatrician,Other,Black or African American,1988-06-10,37,3087176647
+f73834b4-df51-4ba9-933c-a82e30697b6a,Kayla,C,Williams,III,General Practitioner,Other,Hispanic or Latino,1972-06-08,53,7305622175
+d7123480-1a5f-4044-83d8-dc238444c0d5,Karla,R,Graham,III,Dentist,Other,Hispanic or Latino,1987-06-20,38,6517326076
+80e91034-db71-4e54-89c5-864d5ba77248,Laurie,C,Golden,None,Pediatrician,Male,Hispanic or Latino,1952-01-20,73,1189121030
+21fd72a2-b3be-4cb6-af70-441a4364674a,Heather,V,Anderson,MD,Dentist,Female,Native American,1996-01-09,29,8715968722
+e4ccc1b3-e26f-4e22-9724-fb8bb96701d3,Ronald,M,Anderson,Sr.,Cardiologist,Other,Black or African American,1993-09-04,32,7073229568
+25dee17c-4b69-418f-bc34-5482ca9b46bd,Hannah,P,Ward,III,Neurologist,Female,Other,1954-04-01,71,6494665052
+611928a6-5139-491f-8b98-2d200dea7d5f,Christopher,U,Young,MD,Dentist,Male,Asian,1960-12-28,65,4676618813
+240b60eb-fe11-42ca-8859-8e4ae61bc19f,Joseph,V,Myers,Jr.,General Practitioner,Other,Hispanic or Latino,1996-10-13,29,5026361238
+40fcb372-25a2-4ecd-9197-bd6392e8239a,Roger,Y,Montgomery,II,Neurologist,Male,Black or African American,1984-04-03,41,1359783087
+44ffc001-6b36-4342-bcd9-3901dd84f015,Sara,P,Holden,MD,General Practitioner,Other,Native American,1950-09-03,75,3107031600
+36dc0e13-c3f8-4e8d-97a9-79efcce081d2,Victor,M,Turner,II,Pediatrician,Female,Native American,1974-10-26,51,6509315964
+272963c7-7a2d-4141-8558-44e6b765f551,Evan,F,Myers,Sr.,Neurologist,Female,White,1979-03-03,46,8583132933
+801dd376-1570-4a06-bf1d-1d24f51db861,Tami,W,Lucas,III,General Practitioner,Male,Native American,1957-12-06,68,8406066187
+a6c97243-831c-403a-b7c3-23dcad6d01e8,Nicole,W,Lopez,MD,Cardiologist,Female,Other,1962-04-12,63,7736583397
+d5b8d7a4-c30d-4eef-81ae-a7eede4b5b03,Rhonda,R,Martinez,None,Neurologist,Female,Hispanic or Latino,1957-03-01,68,1053580627
+b2982ef5-ec94-40cf-8fbf-9a6226ed52a9,Justin,O,Kaiser,II,Pediatrician,Female,Other,1997-11-22,28,6400673573
+88e92ebe-6a45-4719-89c1-a6d2403a2e1d,James,B,Hampton,II,Dentist,Female,Asian,1984-04-29,41,4276514221
+b6ae4878-57b3-46e4-be81-dee272e298f9,Logan,T,Bender,MD,Dentist,Other,Asian,1960-07-30,65,2352918217
+6d929496-1ca2-48b1-a21b-2c559d8c30c2,William,Z,Simmons,PhD,Cardiologist,Female,White,1965-08-02,60,5489287995
+9a36fc1d-f583-4ead-97fc-62fd0c5f0a12,John,Y,Gallegos,II,General Practitioner,Male,Other,1951-07-20,74,2797175295
+092dd92b-f690-425b-8df4-bf06c4af94a6,Ashley,B,Lewis,II,Neurologist,Male,White,1960-11-08,65,7795938424
+8fbb3e3f-7e04-42ff-adf2-5e3a2ae4ab97,Catherine,N,Ramirez,III,Dentist,Other,Asian,1980-02-01,45,6747877003
+61a8dbe1-bf1a-4a42-874e-f54b2a95d405,Jimmy,B,Kirby,Sr.,Dentist,Male,Black or African American,1948-07-12,77,7367342899
+c2c0648e-3758-4f16-b62f-30f043b1e63a,William,M,Cooper,PhD,General Practitioner,Male,Black or African American,1945-09-05,80,5024900988
+bcf1e407-3d2e-4e6b-86ca-cb60df4217af,Victor,Y,Martinez,II,Neurologist,Other,Other,1986-07-06,39,8476663085
+d790e0b8-ec5d-4682-b9d6-ebdc5e7a771e,Taylor,N,Newman,MD,Dentist,Other,Black or African American,1961-04-16,64,3879792640
+a99b137d-ae43-497b-8e06-d099185f97a9,Benjamin,E,Kelly,MD,Neurologist,Other,Native American,1964-03-03,61,2761401904
+381bc2bc-65a6-4a38-8c37-016d7744b9ba,Megan,Z,Dudley,PhD,Dentist,Female,Native American,1984-05-01,41,2903334092
+4411a3de-3027-4d51-ad4f-d828e1030a4c,Samuel,R,Fisher,III,Pediatrician,Other,White,1998-08-25,27,4156593160
+6b674a3c-c3c9-4c12-93e6-58d84264c336,Renee,G,Peterson,Jr.,Pediatrician,Other,White,1992-02-21,33,3597454730
+007d1df1-b680-482c-8e7a-c570330cfc9e,Brenda,H,Colon,Sr.,Neurologist,Male,Native American,1963-11-21,62,4140725643
+337bd5a0-5638-4d61-981d-87890d165479,Valerie,D,Saunders,MD,General Practitioner,Male,White,1944-08-19,81,6629876818
+17158c37-1a15-4c0e-967d-2d2401d89792,Edward,Y,Ruiz,Jr.,Neurologist,Male,Native American,1984-06-23,41,9072091119
+4068b31a-7aa1-4aa3-9f71-4b784efe6916,Brittney,X,Johnson,Jr.,Cardiologist,Female,Other,1988-09-03,37,6245259275
+59cb966c-d899-465b-a150-84fad5c50d70,Erika,M,Johnson,None,Neurologist,Other,Asian,1945-05-12,80,9636111756
+57e63dbe-3d4f-4fce-9eb4-ad7c1c1863eb,Eric,I,Rodriguez,Sr.,General Practitioner,Other,Asian,1970-07-23,55,8192862587
+cbce4ec1-694b-40d6-b7e7-c93959384060,Kristina,O,Little,None,General Practitioner,Female,Hispanic or Latino,1971-09-03,54,9410633521
+b82314ef-2ce6-40ab-8ba8-612511655bc4,Katrina,P,Howard,Jr.,Pediatrician,Male,Hispanic or Latino,1987-12-08,38,8166568470
+b06808df-b575-47e7-b17f-e101bec6a4e8,Michael,N,Hunter,Jr.,General Practitioner,Female,Native American,1998-11-21,27,3344596727
+6aaf46a9-abca-4a16-b64f-a298303ad247,Linda,I,Diaz,PhD,General Practitioner,Other,White,1947-12-24,78,6236326843
+4f4e34d1-279f-4fc1-8d30-34bd6dc07804,Caleb,M,Mendoza,PhD,General Practitioner,Other,White,1988-05-31,37,9961615167
+11b60810-75a4-48f1-8714-08bfef770583,Jose,F,Lambert,PhD,Cardiologist,Other,Hispanic or Latino,1990-02-21,35,2898463297
+d3a58ff5-657b-4eab-8edf-9e0e0019bcd6,Ashley,M,Martinez,Jr.,Cardiologist,Other,Asian,1953-05-29,72,4190740656
+058a2bff-65cc-42e2-a0b1-1ca10534f573,Stacey,X,Wright,II,Neurologist,Female,Hispanic or Latino,1969-08-08,56,2076733542
+99abf511-f7d6-4714-b129-5ffbedfff6c6,William,Y,Smith,MD,Neurologist,Male,Native American,1980-04-19,45,6767392822
+d049c22e-272b-4998-b3e5-2c1bdc245a7a,Patricia,R,Terrell,MD,Pediatrician,Male,Hispanic or Latino,1954-07-19,71,8073356077
+d563fd75-b1a3-4aa0-bd83-d901fc7b0819,Laura,C,Howard,PhD,Neurologist,Male,Native American,1949-10-26,76,8718253534
+ba263c64-8560-43d7-95c4-86ff5114f7fb,Angela,X,Mcdonald,MD,Neurologist,Other,Native American,1960-03-01,65,5670641098
+e4f5b957-0c4f-4cc0-9b13-adaa2bb1167d,Erica,O,Brown,Sr.,Dentist,Female,Black or African American,1958-08-13,67,5754774283
+cdf7e463-a0de-43b5-a2b7-cd0524273c5d,Angela,W,Solomon,II,Neurologist,Male,Hispanic or Latino,1971-07-05,54,5877395313
+74034907-648d-4198-a341-044ad1f86ab3,David,O,Thomas,III,Cardiologist,Other,Hispanic or Latino,1982-06-18,43,4510377820
+de50fe8c-b5e8-4bbf-b567-668ee520b07d,Ryan,I,Carr,Jr.,General Practitioner,Other,Native American,1953-08-22,72,7100979276
+cfbf390f-4f95-4030-b95b-856bf082c0cc,Karen,V,Brown,PhD,Neurologist,Other,Black or African American,1971-03-31,54,6358174140
+15e2e515-4838-405f-9250-ccf777047905,Kelly,G,Wood,PhD,Neurologist,Other,White,1987-04-03,38,4291648522
+e3a6d56f-0c87-4de3-8037-9e11d987d2fc,Brian,E,Christian,None,Cardiologist,Male,Native American,1972-07-13,53,7933596973
+e4d55dd8-e160-4953-ac89-78606c3fb45a,Kelly,U,Garcia,None,Pediatrician,Male,Asian,1963-07-11,62,9594143088
+1c3becdc-28ed-44c4-a841-fa50e3484b8d,Paul,C,Crawford,MD,Pediatrician,Other,White,1958-09-08,67,6559465539
+bbf3b56f-f9fe-4498-908c-59380020932c,Maria,T,Myers,Sr.,Cardiologist,Other,Native American,1969-11-15,56,8438168364
+66e0302c-2d58-4715-9dca-65d93a135194,Robert,T,Collins,III,Pediatrician,Female,Asian,1964-01-13,61,5701016933
+0c650398-f0ed-4085-b5b6-485a6608f0fe,Edwin,N,Phillips,None,Pediatrician,Female,White,1950-04-11,75,1288747230
+b80ce382-5bc2-45bc-9f6d-8be1f033eb9f,Craig,L,Mueller,III,General Practitioner,Other,Hispanic or Latino,1979-06-17,46,3478751046
+4f37502c-ffc2-48b6-a9b2-eab094a74be6,Kelsey,B,Taylor,None,Cardiologist,Female,Asian,1968-07-18,57,4203420620
+98d0f6f6-2452-43ec-b2aa-9561a4cfc817,Patricia,Y,Mccarty,III,General Practitioner,Other,Other,1958-05-19,67,4366299128
+fc2f79c6-b752-45ad-8340-1ca1ae710b1f,Caroline,U,Day,None,Dentist,Other,Hispanic or Latino,1993-12-15,32,1817740652
+070a1b75-6328-442a-b74d-a3cfff883ee8,Peter,Z,Nelson,Jr.,General Practitioner,Other,Other,1953-03-01,72,2187896506
+d67fe8ea-3983-431f-acd9-addd089c3dfb,Deborah,U,Ramirez,PhD,Cardiologist,Male,Asian,1964-09-26,61,3154011517
+9e0ac5bf-fbc8-4c17-a7a9-630af1d69f5c,Alan,E,Frost,MD,Pediatrician,Female,Native American,1979-10-23,46,2031360016
+d08b3436-eaab-40b8-b89b-62f5cd849884,Michael,W,Flores,Sr.,Neurologist,Female,Asian,1997-02-27,28,5790682381
+b45fd164-e4d6-4af2-9e31-e01f6ff8c20a,Elizabeth,J,Rowe,MD,Pediatrician,Male,Hispanic or Latino,1957-12-31,68,6763091118
+dbef7df7-8b23-4572-baa7-09967cbac02f,John,D,Johnson,II,General Practitioner,Other,White,1945-06-27,80,8353704079
+3630c879-0a14-4e84-8ba8-f43e35815757,Christina,D,Roman,II,Pediatrician,Female,Other,1997-03-12,28,4603003335
+f8df6870-b460-482a-babc-dae72b5a6c92,James,O,Wise,MD,Cardiologist,Male,Asian,1946-12-02,79,2857615087
+d63d9364-4f7f-4b31-8d17-6601f6a3907a,Wesley,C,Blair,III,Pediatrician,Male,Native American,1957-01-29,68,6746511767
+c382f007-ae1f-4aa3-88f4-c3e89e1e743a,Nicole,X,Harris,PhD,Cardiologist,Male,White,1982-12-01,43,8828830114
+eb007fc5-47f5-4bbf-99b2-34e85efda78b,Alyssa,P,Macias,Jr.,Dentist,Female,Hispanic or Latino,1981-08-29,44,3598928483
+77040c82-52da-4f69-bdb1-b690484dad63,Matthew,B,Malone,II,Neurologist,Other,Hispanic or Latino,1977-07-11,48,5846377299
+10ef430d-a7a0-45b4-9fed-08141fb520c9,Kathleen,Q,Robinson,Jr.,Dentist,Female,White,1954-09-24,71,1733418946
+1434edb2-0427-4768-b022-afb927e51724,Cindy,R,Novak,III,Pediatrician,Male,White,1982-05-19,43,5576251784
+e7e400f7-0292-4aa5-a043-7cb0909a92d9,William,B,Adams,Sr.,Cardiologist,Male,Hispanic or Latino,1977-02-12,48,1202977715
+31af81bc-4d6a-4407-a8a9-4b01fd392a20,Kristine,E,Martinez,PhD,Dentist,Other,Black or African American,1960-08-11,65,6638924888
+6e51f1f8-54ee-4632-8bb6-a4e457a952ef,Mark,X,Smith,III,Cardiologist,Other,Asian,1954-04-16,71,3426063423
+6b1097e2-8cf7-435a-a535-dfae132da57f,Jessica,P,Stewart,Jr.,Neurologist,Other,White,1953-08-27,72,2924851329
+b0d14395-0b9b-4652-a7d3-53e81ed9c405,Vanessa,B,Armstrong,Jr.,Cardiologist,Male,Black or African American,1999-09-07,26,2437370035
+eaab35af-787d-4a7b-882f-6dffbfaea47a,Matthew,H,Lopez,None,Cardiologist,Male,White,1973-09-29,52,9693170495
+4c9f9252-3d29-4433-afa2-17b6b3715596,Christina,J,Brooks,II,General Practitioner,Other,Native American,1986-08-31,39,8524254701
+72448fc1-4e0f-46f0-b7f9-1fd6bceb1a6f,Thomas,Z,May,Jr.,Neurologist,Other,Other,1991-09-26,34,7676259195
+c5de1ad9-daa4-4ccb-90cb-b69bccf15539,Pamela,K,Davis,None,Dentist,Female,Asian,1947-01-20,78,4683465179
+649ad85d-dd59-47cc-8ce5-774be6eb8c33,Connor,A,Vargas,MD,Neurologist,Male,Native American,1975-03-18,50,3448433631
+b42e3b35-cfac-48fc-b996-953a21a9190d,Melissa,R,Martinez,III,General Practitioner,Other,Asian,1990-06-22,35,7235038416
+0916d118-26fa-40b3-b731-7bda4c0e558b,Frank,L,Howard,None,Neurologist,Female,White,1989-02-13,36,4886435794
+3e0e4734-ab64-401e-8661-42f849d7b71f,Corey,K,Smith,None,Pediatrician,Other,White,1994-04-17,31,9978781104
+e1dd28b9-a866-4262-ac03-66dd025b0837,Kimberly,L,Coleman,Sr.,Cardiologist,Female,Native American,1978-05-18,47,3605218914
+ea59e903-012c-4270-9a68-a8905c9d8071,April,V,Manning,PhD,General Practitioner,Male,Hispanic or Latino,1959-01-02,66,6707787035
+98d708e2-35e1-4139-ab2e-bd84079a2e86,Michael,K,Swanson,Jr.,General Practitioner,Male,Native American,2000-06-12,25,5900379341
+02294215-4e46-4f84-b827-06e90cfd9079,Kathryn,J,Thomas,MD,Pediatrician,Male,Asian,1981-04-18,44,5741402135
+a941d146-f870-4d8b-923b-ecd6273f8f03,Jessica,B,Watson,Jr.,Pediatrician,Female,White,1976-07-19,49,6226783800
+6827349c-c8c1-428f-aced-b45dc9cab408,Kellie,Y,Davis,III,Neurologist,Male,Other,1997-03-09,28,7393435488
+4d202fcb-3d5a-4dbf-b21f-cb81c4004aad,Kristopher,I,Kane,None,General Practitioner,Female,Native American,1963-06-12,62,9835273219
+6e93291f-69e4-4f2f-8a42-eebfc76837ee,Kathleen,Y,Smith,PhD,Cardiologist,Other,Native American,1959-11-25,66,7042551352
+2ccc1686-4e34-4e3c-a22a-c3dbaffab584,Virginia,U,Torres,III,Pediatrician,Male,Black or African American,1979-03-01,46,3170924674
+68a1b883-6203-4ce9-8ccb-b18b05171332,Alexandra,X,Jimenez,Jr.,Cardiologist,Male,Other,1949-01-07,76,1559728984
+3a296e95-61db-4feb-9ff5-0c5c61aa4da6,Amanda,U,Sanchez,PhD,Pediatrician,Other,Native American,1999-10-09,26,3829863671
+46d3aedd-1219-40ff-9f02-30f47b712a54,Thomas,C,Key,II,Cardiologist,Male,Hispanic or Latino,1970-06-07,55,1534140874
+b6e0c314-8938-46cf-be65-b34206a3b245,Deborah,X,Mack,II,Dentist,Other,Other,1989-10-20,36,4258866829
+fdec2698-9d6d-492e-b01b-8c0ddf1e4b17,Margaret,K,Phillips,None,Neurologist,Male,Black or African American,1967-02-11,58,5593026086
+f2c71b12-0c02-4136-9e27-1604bbb4a0ac,Suzanne,E,Nelson,None,Pediatrician,Other,Native American,1970-07-06,55,3687645648
+c08bcebe-8aa3-43eb-8647-8de62beb3846,Douglas,R,Norton,Sr.,Cardiologist,Female,Native American,1993-01-07,32,1734949234
+54af93a9-3d86-48c3-9973-9c4f7ae2cbd3,Cynthia,H,Johnson,None,Pediatrician,Male,Other,1949-12-04,76,4189292756
+badbef05-79fd-4508-973e-684fef0bcab8,Sabrina,Y,Griffin,None,Cardiologist,Female,White,1951-05-10,74,5732739953
+e41e0424-cbd7-4eb5-b8f7-6a999db6ebb4,Isaiah,U,Jones,Jr.,Cardiologist,Other,Other,1957-09-10,68,4335812158
+8774c62d-5692-49ae-9d68-cb096a9307da,David,H,Ellison,Jr.,General Practitioner,Other,Black or African American,1990-10-01,35,3493724631
+88f055d2-fcc7-4bf0-8a54-261601244a20,Charles,S,Barton,PhD,Dentist,Female,White,1966-06-23,59,1922591691
+ab047ee7-7fba-48c7-94a3-a5f526c47397,Anthony,J,Morales,II,Cardiologist,Male,White,1945-12-28,80,3967866202
+32b6edf8-6366-419e-80f1-45ea6452623a,Elizabeth,F,Williams,II,Neurologist,Male,Native American,1990-03-28,35,9960584594
+055e6d8d-a22b-4682-8ffa-0c8c008c2743,James,I,Smith,III,Pediatrician,Other,White,1958-08-05,67,2395358300
+826276d5-285d-4a1a-a2ea-4add6db10838,Olivia,X,Macdonald,II,Neurologist,Male,Other,1968-12-06,57,8136501445
+41502485-deb2-45a1-ad2b-53633a300c85,Michael,W,Phelps,MD,Pediatrician,Other,Asian,1956-03-19,69,9283293382
+2e165245-600a-49c7-bc71-effac0a7fd16,Angela,T,Wise,III,Neurologist,Female,White,1950-06-05,75,1540518697
+2e11326e-b329-4cbd-a611-20f3adeb5408,Nicholas,A,Crane,PhD,Neurologist,Female,Other,1948-11-28,77,6246031999
+1f5ca301-c455-4d81-9969-589f0f2a8b5b,Mark,W,Lynch,None,Pediatrician,Other,Native American,1984-06-18,41,2007126303
+62507609-80c1-43ab-8865-d402da5d9f99,Leslie,U,Yoder,None,Dentist,Female,Hispanic or Latino,1958-03-12,67,5892701031
+4d71f5f0-984c-468c-9ac1-2b6526a33af9,Luis,O,Fitzgerald,III,Dentist,Female,Asian,1998-04-05,27,1199812121
+f576fbec-794c-4252-b6b8-1618a5026930,Katherine,P,Lynch,None,Dentist,Other,Other,1962-06-22,63,7882609676
+28bf2263-0e36-4f04-adbd-b5b0cae36dd0,Luis,C,Smith,Sr.,General Practitioner,Female,Other,1972-04-08,53,1660084596
+7a96dfde-b486-47f8-bcda-a971b2cfa062,Dawn,U,Garcia,Sr.,Dentist,Female,Hispanic or Latino,1986-06-24,39,3451386677
+da849c68-6442-4ddc-b4b1-47afb6743ddd,John,U,Floyd,II,Neurologist,Male,Asian,1978-08-30,47,2139917637
+270debf7-a79a-4a7f-99e9-ba7ce0dadc93,Calvin,U,Lynch,None,Neurologist,Female,Hispanic or Latino,1997-06-09,28,1104017715
+47df5475-b95c-4c62-bfb0-c1a052f29d2f,Christopher,W,Bishop,MD,Dentist,Other,Hispanic or Latino,1949-11-25,76,3172008494
+bf6e2dd4-fd02-44a4-be78-a5d61eb2e4bb,Zachary,C,Martinez,Jr.,General Practitioner,Male,Hispanic or Latino,1986-04-03,39,4136069327
+843a4690-2db9-4724-988a-b000338f52f6,Susan,R,Lamb,II,Pediatrician,Other,Black or African American,1983-01-29,42,3132911015
+3f7074d3-feba-4189-b7ef-222df97f4858,Tina,M,Moore,Sr.,General Practitioner,Male,Hispanic or Latino,1962-03-22,63,7876371261
+ca87a9a6-a9ff-448e-9aaa-2d31ef56dfba,Devin,C,Glass,II,Neurologist,Other,Hispanic or Latino,1978-12-30,47,1474010339
+287ceab3-0c38-480b-96d3-de6c1f7bcdb7,Earl,K,Gregory,MD,Pediatrician,Other,White,1996-08-30,29,1890406774
+add73e1c-5344-4ea7-b86d-9167f8e1fec2,Paul,R,Lopez,PhD,Pediatrician,Other,Black or African American,1976-09-13,49,9356048579
+9b585900-8bf4-451f-97ef-4dfab41ea9e8,Timothy,U,Rosales,Sr.,Cardiologist,Male,White,1971-04-06,54,7255591942
+ef3dd63c-02e1-4957-bba2-f51d6e7a9da4,Cameron,C,Meyer,Jr.,Pediatrician,Other,Black or African American,1993-06-09,32,2031036477
+2c4d0bcd-c751-4846-83ff-63f42fb47c2a,Amber,E,Arnold,Jr.,Cardiologist,Female,Asian,1962-08-19,63,4825568151
+3b434f54-9fb8-41cd-ada5-21bcfacdb8b3,Lindsay,A,Leon,Jr.,Neurologist,Other,Native American,1966-10-06,59,1056474182
+9b6691e1-6cf6-4b82-8b14-007cc8d2a290,Cassandra,L,Cox,II,General Practitioner,Male,White,1972-08-20,53,1386307622
+c093789f-d58b-4b9d-a752-9f49ca2977cc,John,L,Lopez,PhD,Dentist,Male,Black or African American,1989-04-20,36,1770607766
+13dbce3e-ce4a-4c7f-ab96-c6bd8a382859,Dave,U,Giles,MD,Neurologist,Other,Other,1955-08-06,70,8283230862
+6fad0d64-70af-4b34-bc69-baafdb8c8b3e,Mary,W,Williams,PhD,Pediatrician,Female,Other,1955-09-26,70,4857590742
+1b084ea9-b7d4-4039-88e4-89402a08da49,Bethany,G,Bauer,None,Neurologist,Male,Asian,1970-03-08,55,6047145650
+b0844ba1-a0d1-48be-b13f-8a9c8c6d4a2e,Mary,Q,Rodriguez,III,Neurologist,Female,Black or African American,1988-12-19,37,8889416362
+cd86b247-fe0b-4378-a2d9-3a343528fbec,James,F,Delacruz,Jr.,Dentist,Female,Asian,1989-07-10,36,8119480876
+b4372f0d-9c1f-42a1-8224-d7a5c7968d39,Ryan,S,Poole,MD,General Practitioner,Other,Hispanic or Latino,1945-09-03,80,1189268166
+ea3331a3-18a3-4469-9ee5-fd2832b7ffd3,Victoria,Z,Friedman,None,General Practitioner,Other,Native American,1975-05-18,50,5464589769
+f90df0cd-1a70-4d58-934b-a02004fb43c3,Danielle,U,Gallegos,III,Neurologist,Female,Black or African American,1971-02-11,54,3541347271
+b07f88ce-a56e-4270-accd-35aedda53cfd,Eric,N,Sandoval,Jr.,Dentist,Other,Asian,1961-05-03,64,6348412840
+4716bbb2-a271-481f-a452-02dcecab934b,Brenda,S,Smith,Sr.,General Practitioner,Female,Asian,1965-01-10,60,7863180733
+3aa78f82-061b-4bb4-9cba-9319eeb0d1fd,William,P,Fisher,Jr.,Cardiologist,Female,Asian,1959-09-13,66,5927362921
+ef53046e-ea26-48f8-91a0-709ff559d3f2,Jeffrey,K,Young,III,Neurologist,Other,Native American,1979-03-08,46,4422664594
+2168d0d2-c20e-4bb3-a884-ff20b2dccb28,Tamara,P,Sims,PhD,Pediatrician,Female,Native American,1950-03-14,75,7752974683
+3dad2252-170e-49c6-964b-212b32e7767f,Michael,E,Parker,Jr.,Dentist,Female,Native American,1962-10-28,63,1155739633
+8bc82ea3-9f74-4718-8742-356fe310aa30,Rachel,C,Anderson,None,Dentist,Female,Native American,1986-05-08,39,2651403146
+86558de9-1f8c-4635-b893-5cce215e2f29,Kevin,Z,Warren,PhD,Neurologist,Male,Other,1957-03-16,68,1691093318
+76b410ab-e9e1-4a99-9dbb-3b82845691df,Natasha,U,Rogers,None,Dentist,Female,White,1957-05-30,68,4509927241
+11f7c164-5df7-4c43-9603-daa2726f698e,Hector,P,Griffin,III,General Practitioner,Male,Other,1952-03-31,73,3602275184
+ea3a1b11-3949-405c-9f7a-727476cdbc8b,Mitchell,M,Nguyen,PhD,Neurologist,Other,White,1990-06-18,35,8179220155
+f0bcc689-7af7-4676-843f-f4a01cf91a07,Stacey,A,Lopez,II,Cardiologist,Male,Asian,1978-09-11,47,7108402348
+700d1152-4241-44b9-9490-895bcbc3773d,Robert,Y,Tapia,Jr.,Neurologist,Male,Other,1987-04-08,38,4813001785
+66ec207a-64a0-4d37-a90f-bdf0c682e801,Michael,E,Rodriguez,III,Pediatrician,Male,Hispanic or Latino,1976-11-01,49,6268547949
+45ddd210-a7fb-456f-a258-8ea2011ec02d,Michael,U,Davidson,Sr.,Neurologist,Male,Asian,1959-04-11,66,1162975782
+904836bd-d5c5-449f-9734-bc65f41f113f,Mary,I,Castaneda,PhD,Pediatrician,Female,Other,1947-09-01,78,5944695344
+c273e862-ac30-42ac-af33-61b3176dfa89,Jack,F,Dean,Jr.,General Practitioner,Female,Other,1987-02-26,38,8832306754
+bd87c322-33ea-43db-9745-704e941a9117,Joseph,X,Davis,Jr.,Dentist,Male,Hispanic or Latino,1999-04-27,26,9759396545
+9c3c46d9-5a24-4247-b7bc-ffea3e780d40,John,F,Hughes,PhD,Pediatrician,Female,Black or African American,1986-01-26,39,8544221165
+90e4661b-9907-4cf5-aa10-a1f31523914f,Kathleen,G,Daniel,II,Neurologist,Female,Black or African American,1994-06-17,31,4669125435
+e010ccd3-0fe4-419b-92ca-24e9d8d7dc30,Hannah,D,Velasquez,None,Pediatrician,Female,Asian,1999-10-02,26,6701102925
+d0ea2f05-82c9-4fc6-bda2-d37fae277506,Angela,J,Davidson,III,Dentist,Male,Native American,1950-01-04,75,9727890928
+2e0db3c9-73ca-4291-97fa-914e45e49d8d,John,V,Jordan,MD,Dentist,Male,Black or African American,1983-05-25,42,5243881561
+b652f342-123a-4a9d-86f2-75fa8aed793d,Scott,F,Howard,MD,Neurologist,Other,Native American,1947-09-05,78,6408827947
+39c122b5-d01e-4fd8-858e-1145a770010f,Rebecca,A,King,II,Cardiologist,Female,Native American,1986-08-30,39,4986598997
+eb6422e9-4f74-4371-8575-d49cf1026341,Jacob,M,Rodriguez,Jr.,Dentist,Other,Hispanic or Latino,1990-12-07,35,4021835115
+48870600-5980-4d06-91a8-e5e5bd996345,Sara,Q,Moran,PhD,Dentist,Female,Other,1954-05-20,71,1505574463
+1938c3fa-861f-43f1-b5fb-79bcafa0210f,Benjamin,C,Cross,Sr.,General Practitioner,Male,Black or African American,1994-10-14,31,2742160097
+21475c55-94f5-48c4-9d62-5b38e3816d92,Catherine,J,Thornton,Jr.,Cardiologist,Other,Native American,1955-01-23,70,4774256899
+0f8e9015-2f48-4489-b4c6-091289965fa4,Morgan,I,Lloyd,Sr.,Dentist,Other,Hispanic or Latino,1986-06-04,39,1458834907
+f68bcd36-e7a1-4b25-b53f-e2cf6ac005c4,Kimberly,L,Jenkins,Sr.,Dentist,Female,Native American,1972-08-27,53,7786169252
+9d9c4370-c5a4-43ba-af59-b8ec3c750108,James,B,Conley,Jr.,Pediatrician,Other,Black or African American,1945-07-20,80,1943659715
+20efe7c6-1d09-4f31-9284-e2308df1f4a0,Katherine,R,Jackson,Sr.,Cardiologist,Other,Black or African American,1994-08-19,31,3003055188
+0891e6f9-7b77-4d8c-9a5f-a89b12028f12,Sonya,H,Martinez,Sr.,Pediatrician,Male,Hispanic or Latino,1969-07-15,56,4142320767
+be47e76e-c844-4126-a6a1-192cd13e9c6e,Jorge,J,Wallace,II,Cardiologist,Male,Native American,1983-07-29,42,4468903187
+9f223c1b-2132-4f39-8ae1-3084d61ef031,Bradley,M,Peterson,II,General Practitioner,Male,Asian,1998-02-13,27,9499652308
+9653c5e7-917d-40c9-b54e-12901aadee15,Andrea,F,Wilkins,Jr.,Pediatrician,Other,Asian,1978-04-29,47,2671378397
+70c2efc3-d191-41f7-ad42-da4185e80d5b,Matthew,Z,Jones,MD,Dentist,Female,White,1980-06-12,45,6012517973
+7eece1d3-7113-43f9-88d6-208c213f42e2,Connor,V,Macias,II,Neurologist,Other,Asian,1965-07-03,60,2971546654
+35078373-5898-4bd2-94ec-e95b559b7445,Amanda,V,Evans,II,General Practitioner,Female,White,1970-01-24,55,4250788002
+d26aa766-5637-46ce-85cf-56f4e850d1de,Gwendolyn,D,Aguilar,III,Pediatrician,Male,White,1982-01-26,43,4293302611
+5f09737e-c4d1-4bcd-89a5-cf25f610abbe,Anthony,M,Jackson,III,Cardiologist,Other,White,1982-12-04,43,2094146809
+4fe8da49-0d37-459f-ab0d-d5021d8f6f16,Gabriella,C,Watson,None,General Practitioner,Male,White,1951-01-22,74,2534340012
+4d3febde-d77d-4fce-9bcd-dae75b81072f,Gary,X,Odom,III,General Practitioner,Female,White,1988-06-18,37,1652962044
+30ee250f-2068-49cb-b9c0-5a0834a5fa9a,Billy,R,Beck,Sr.,Cardiologist,Other,Black or African American,1998-05-17,27,3033017563
+63122131-90e4-42fc-894c-1bdd1e032fb0,Jessica,X,Norris,III,Neurologist,Female,Black or African American,1978-06-16,47,9358745364
+f66c5647-d815-4cc4-a8c3-2cc9920099ca,Jennifer,A,Rodriguez,MD,Cardiologist,Female,White,1981-04-15,44,2439815490
+1bd4ba1a-ae18-46ee-a98e-1a7b4f738119,Cameron,B,Collins,MD,Neurologist,Male,Black or African American,1990-10-12,35,5993442612
+a870a816-1528-4537-9d8b-4b627d71e6ba,Wesley,Y,Suarez,Sr.,Pediatrician,Female,Asian,1997-06-28,28,8332300941
+c1bbe1bc-83f5-466b-89ab-271be547518e,Joel,B,Russo,None,Dentist,Male,Black or African American,1961-01-10,64,4132003913
+f097282a-2d93-463a-96af-4398049f04e0,Robin,S,Roberts,PhD,Neurologist,Other,Hispanic or Latino,1974-03-23,51,2775251818
+dc1740cc-7a9b-4565-adbf-48977795f862,Jesse,P,Garcia,MD,Pediatrician,Male,Other,1950-08-23,75,4671292263
+84ae5e52-fbce-4e28-8a7f-25d4f9411ee3,Darlene,L,Webb,PhD,Cardiologist,Other,Asian,1996-10-06,29,3927652898
+d7c81f7a-655e-4849-a602-16c1162480eb,Craig,Q,Johnson,II,General Practitioner,Male,Hispanic or Latino,1954-08-15,71,6173869027
+9b3db381-471d-4dcd-bed7-a1c61a3ee410,Christine,P,Hammond,MD,Pediatrician,Female,Native American,1953-07-06,72,6567676123
+035b4735-0f07-4c9e-a3b8-1771546bd7d3,Jeff,W,Peterson,Jr.,General Practitioner,Male,Black or African American,1982-01-31,43,8518443808
+3a311ea7-40b6-4d26-a7cc-d1ebbc728537,Cassandra,T,Summers,II,Neurologist,Other,White,1977-12-19,48,3826384535
+07d81f25-55fc-428e-a4f9-bbe6907d5731,Patrick,Q,Murray,III,Cardiologist,Male,Other,1998-06-15,27,7972237736
+cd839743-e931-4b54-b261-0709070dfa74,Janet,V,Melton,MD,Cardiologist,Male,Black or African American,1966-09-28,59,2059528559
+6f256631-2b07-405a-ba38-b628e2cdeb9e,Heather,Q,Kim,None,Neurologist,Other,Other,1949-09-27,76,1059898572
+71a2ab45-8796-4e34-8784-19ca15bf7376,Dawn,F,James,Sr.,Neurologist,Male,White,1979-04-15,46,6812861157
+afebae87-9be7-4a18-979f-05d0930743d6,Jennifer,E,Webb,MD,General Practitioner,Other,Asian,1999-07-09,26,7934810906
+e70cedb0-647e-4619-b9d9-0ec4636a27cd,Kim,D,Allen,PhD,Cardiologist,Male,Black or African American,1958-08-25,67,2014958188
+b6ec70db-0600-4901-a342-a9bed63f7e76,Tim,O,Perry,III,Dentist,Other,Hispanic or Latino,1970-05-23,55,4987352742
+c67179ef-ff4c-46f2-921e-93e069da35e4,Veronica,X,Soto,Jr.,General Practitioner,Other,Asian,1993-08-25,32,3206645664
+fdb73b73-75b4-44fa-b32a-af59e78b83eb,James,C,Sims,PhD,Cardiologist,Male,Hispanic or Latino,1982-08-28,43,9763977229
+d6265101-1405-45b8-80cd-246462ea69c3,Valerie,X,Pierce,None,Pediatrician,Male,Hispanic or Latino,1946-09-18,79,1763974300
+6ba1e621-69e8-4bf5-b35b-8b09b57b5f5e,Elizabeth,H,Thomas,MD,Dentist,Female,Native American,1962-06-28,63,3813258157
+8b9b2be1-79ea-4315-bd83-e0b030e3c231,Katelyn,G,Henderson,None,Dentist,Male,Asian,1995-10-23,30,5097433376
+69b89a99-2e72-4ee2-a202-f2f2459ed9c1,Gregory,N,Atkins,None,General Practitioner,Other,Native American,1999-03-09,26,8114050579
+1bfccf96-ec90-47ec-9b0c-02596783f131,Brian,X,Wall,II,Dentist,Male,White,1952-09-02,73,4650655312
+66c06386-5db7-4deb-a473-82b8bf0e51f5,Shannon,Z,Blankenship,II,General Practitioner,Female,Asian,1979-02-20,46,9807367397
+6478b8ea-e0e6-4ee2-971d-f707b8746db9,Michael,Z,Castro,Sr.,Neurologist,Male,Hispanic or Latino,1991-08-03,34,2339144049
+9ee17618-7d89-4c31-9621-9059bd601d82,Matthew,Y,Jones,None,Cardiologist,Female,Native American,1957-11-21,68,4985095456
+d1c66369-7c95-4776-929f-45eb9c0cf1ce,Richard,U,Blackburn,III,Cardiologist,Female,Black or African American,1947-05-07,78,8567164182
+9f169e15-8110-407e-8131-4808f858dc76,Kenneth,X,Lee,PhD,Dentist,Male,Black or African American,1968-07-27,57,2697451518
+170c29e4-c233-4059-87a8-191b913db9a2,Michael,F,Wilkerson,II,General Practitioner,Female,Other,1953-07-14,72,6496545496
+238621d8-c093-4d2a-bf22-44707f07ea3d,Michael,K,Vasquez,Jr.,Pediatrician,Male,White,1993-06-07,32,2160560550
+cd6b07f8-1083-408b-bf71-00b2a774d0af,Michael,L,Harrington,PhD,Pediatrician,Female,Black or African American,1989-10-03,36,2377508778
+7e8d1c0b-3c89-44b1-aeb3-1658572fd7a6,Katherine,J,Olson,II,Pediatrician,Other,Native American,1969-11-25,56,8969298141
+f980879a-4cc2-4e6e-a6d4-366d96e6040f,Jacob,D,Reed,II,General Practitioner,Other,White,1956-11-05,69,3349956239
+b4cae5dc-339d-4612-b770-cde9981a5e84,Amber,B,Foster,Jr.,General Practitioner,Other,Native American,1987-09-16,38,2670780756
+7a3f3fae-2601-4395-a763-aa5dac9fdba4,Tammy,O,Mcdonald,III,General Practitioner,Other,White,1956-09-12,69,5296200998
+cf69f408-384e-4af6-af03-2ad2a663e7f6,Andrea,R,Kelly,Jr.,Neurologist,Other,Other,1977-11-12,48,9686755902
+8c48d692-ae5c-4912-9b3c-9d6f53a7dded,Jason,H,Evans,PhD,Cardiologist,Male,Other,1990-07-04,35,8604353482
+b4c57a69-2d75-43dd-8f43-815c30f7ccbb,Robyn,B,Sanders,III,General Practitioner,Other,Black or African American,1982-09-23,43,6475752496
+aa4a6329-eff4-45b8-a72d-fc2f3fa4c5f7,Thomas,Y,Charles,III,Dentist,Male,Other,1957-02-16,68,4916752932
+3e6b7a37-f20e-412c-a3b5-e8d516b6b13e,Keith,K,Roberts,None,Pediatrician,Other,Native American,1965-10-14,60,7629191781
+85824ab8-4b00-407a-a1d8-65e8a6bad26e,Aaron,H,Reyes,Jr.,Neurologist,Other,Asian,1982-11-06,43,3427823050
+76eac02a-4952-48bc-b48b-dcfd2eca1a5a,Richard,A,Wade,Jr.,Cardiologist,Other,Native American,1981-10-09,44,4151565008
+c81a23ce-9b09-4992-b9b5-d859693c6909,Renee,S,King,PhD,Cardiologist,Male,Hispanic or Latino,1998-10-16,27,2907755612
+b809bfaf-8ed2-443c-8d2e-95181f67f993,Sara,J,Williams,II,Neurologist,Male,Asian,1968-08-13,57,7211539688
+09ff9385-6d06-4380-b522-4786ce1bfd05,Paul,C,Meyer,II,Cardiologist,Other,Black or African American,1948-07-22,77,4615663406
+4d0e010f-af97-42df-8e2d-578dee4f4f9c,Carla,G,Stone,MD,Cardiologist,Female,White,1993-11-26,32,1740111210
+6076218a-10e5-4277-b833-bdb8c4fae321,Adam,I,Cruz,None,General Practitioner,Female,Asian,1956-06-18,69,4886392112
+8dd5be1a-f23e-4852-b279-14310f55ceb1,Kylie,U,Maldonado,MD,Pediatrician,Female,Native American,1954-10-03,71,9049335351
+03d31516-cc79-4074-86d4-e873c8c21d43,Christopher,E,Christensen,III,Dentist,Other,Other,1969-06-02,56,8611515402
+92ab7f89-31c5-47a9-be08-31bf2eb4f20e,Andrew,R,Stafford,PhD,Pediatrician,Male,White,1970-06-30,55,2325695868
+89ccd27c-fe9b-4a6f-8be4-aea900871fb1,Brandon,E,Taylor,PhD,Dentist,Other,Asian,1954-05-16,71,2808932469
+bded21aa-c01b-47f0-aa52-6a70254547e9,Jessica,F,Fernandez,Sr.,General Practitioner,Female,Other,1982-01-05,43,3133735656
+9ef3678b-1d07-4903-a798-7f44eba43f25,Melvin,M,Thomas,PhD,Pediatrician,Female,White,1988-06-19,37,6873805835
+ce395f0b-30bb-497e-be45-7d5cffb5b41b,Robert,O,Baker,PhD,Neurologist,Female,Other,1987-05-22,38,7671872221
+a386f531-eec7-4d39-bd17-8c199c526fa2,Miguel,V,Underwood,II,Pediatrician,Female,White,1955-09-21,70,3117092975
+d29c86f8-e3e6-4b06-b4e5-cff6ed537576,Adam,E,Bullock,III,Neurologist,Male,Hispanic or Latino,1975-06-11,50,8158011632
+45d36535-0962-4dab-a771-40d92c6aac0b,Gregory,U,Brown,Jr.,General Practitioner,Female,Hispanic or Latino,1986-12-28,39,7720994114
+d59a38f8-5190-4755-abf7-142c71362a7b,Anthony,I,Hunter,None,Neurologist,Other,Asian,1947-06-18,78,8984177721
+97f43da6-4466-4d26-9274-7c13c5070d02,Joshua,U,Taylor,Sr.,General Practitioner,Other,Other,2000-02-23,25,1425621896
+284265c5-8eb3-4f7f-b7b9-522cc2fd9368,Logan,O,Scott,Sr.,Dentist,Female,Hispanic or Latino,1958-11-22,67,2505885268
+25b903c0-f192-4130-8a75-3e3683621474,Kristi,F,Medina,Jr.,Neurologist,Other,Asian,1990-06-16,35,9237807472
+997fa181-b7a3-4aaf-b341-f8eb25583385,Sara,V,Bennett,PhD,Pediatrician,Male,Hispanic or Latino,1978-10-11,47,5270966249
+be44e714-ebf6-4724-b030-c11833e034fd,Rebekah,V,Davis,II,Neurologist,Female,Hispanic or Latino,1981-11-09,44,3355729560
+bbbc483f-1a99-462a-b79a-5d5ec97a7e8a,Nicholas,V,Watts,MD,Pediatrician,Female,White,1946-01-22,79,9383243486
+12fa909a-e513-4e48-98cd-eaf71a093e22,Ellen,L,Lowe,Jr.,Neurologist,Male,Native American,1971-06-01,54,1730686732
+9a376c16-639c-44f9-9381-3800f58f806d,Jason,W,Martin,II,Cardiologist,Other,Asian,1956-03-31,69,5386484027
+a0fe59de-5801-4e0a-bd22-852894e96836,Erin,Q,Hester,MD,Dentist,Female,Black or African American,1965-07-09,60,4914136040
+f6101c8c-245f-4f26-8808-237f2f22a7da,Mary,I,Garcia,MD,Cardiologist,Female,Hispanic or Latino,1999-07-06,26,4506967313
+320a8c30-2e7a-4a8c-b619-22e017836753,Dean,X,Alexander,Sr.,Pediatrician,Female,Asian,1956-12-23,69,1830534705
+b98bc713-8f94-4565-9979-850167f6586e,Justin,T,Kelley,MD,General Practitioner,Female,Other,1995-05-25,30,4090437643
+6763a80b-b668-4da1-b9a6-8fb497b9d79c,Amanda,R,Mendoza,II,General Practitioner,Male,Asian,1994-07-14,31,6683271983
+af2f1546-a0b5-4612-abaf-ed94015799d4,Paul,I,Morrison,None,Neurologist,Male,Asian,1947-06-07,78,1288087175
+78a52fa7-6284-4a9f-a3d1-f303779d5536,Trevor,Q,Morse,Jr.,Neurologist,Female,White,1998-09-22,27,7649715522
+1be43d70-8336-4b96-a381-c49da81edd24,Gregg,J,Juarez,PhD,Cardiologist,Male,Asian,1963-08-14,62,9900116920
+00fc50b8-f503-4fb3-a10e-53368d96564e,Jeffrey,I,Gomez,III,Cardiologist,Other,White,1984-12-23,41,8500376384
+f2d98a28-879b-4b33-ae8e-b32daab8c37f,Ryan,O,Garcia,III,Neurologist,Other,Asian,1996-06-17,29,6074517841
+04d33ecd-ef06-4c52-b043-857508d6e63a,Brandy,J,Jones,PhD,Pediatrician,Other,Hispanic or Latino,1966-06-22,59,5234852155
+84b1c8ea-e79a-4c1e-8554-c2204ee7695c,Jocelyn,V,Rivera,Jr.,General Practitioner,Other,Black or African American,1966-01-27,59,8474111005
+5cbd8f85-f1d4-457a-9ebd-ef4ff58c71a9,Donna,F,Brandt,None,Pediatrician,Male,Asian,1982-02-18,43,7954244381
+4b379bc8-a90a-431a-bd2d-729aeacdcb30,Susan,H,Boyle,None,Pediatrician,Male,White,1979-01-20,46,1561596633
+247ef6dd-5289-4c36-beae-df1ddb82f97c,Michelle,F,Reynolds,III,General Practitioner,Female,Black or African American,1970-11-28,55,8897657194
+4e15c8af-cfda-43f9-88e3-04734d81b075,Katrina,Y,Hickman,II,Dentist,Female,Other,1971-06-12,54,1996935805
+9e737f5b-e8ef-46c6-873c-df38b1ac43f9,Barbara,E,Williams,III,Pediatrician,Male,Hispanic or Latino,1981-06-02,44,3848068855
+8f46b54e-f210-4576-9ee6-eb6abd5e3f7d,Joshua,A,Mckee,None,Dentist,Other,Asian,1972-05-10,53,1740265476
+a6bdbf63-05f5-4317-a274-8aaaf1067187,Christine,V,White,PhD,Pediatrician,Other,Black or African American,1983-12-17,42,1164642533
+60f1aa80-64d6-4c3a-aad9-18e48d2e5989,Aaron,P,Montgomery,Sr.,Dentist,Female,Hispanic or Latino,1968-04-25,57,6637522753
+a985ccab-1746-4b49-82c0-a8619507374e,Nicholas,R,Mack,None,Cardiologist,Male,Black or African American,1944-11-06,81,4564075221
+cf7572ef-1c7e-4e35-8884-55fe56fe22f9,David,X,Perkins,PhD,Neurologist,Female,Asian,1990-06-03,35,7974861816
+f990badc-a269-4f8d-89e6-5069d3df97fd,Diane,C,Richardson,Sr.,Dentist,Male,Other,1949-12-10,76,7834597288
+26a3a31a-b9c7-43ae-b038-75787d80a462,Joy,S,Hernandez,III,Neurologist,Other,White,1991-09-21,34,5232721020
+6e6a3089-8c6f-4ea6-b03b-b259d9293c12,Maureen,M,Dawson,MD,Cardiologist,Other,White,1975-07-12,50,5807176423
+3bb395d0-f7fc-4462-a357-25ec0f0e971b,Sara,S,Green,III,Neurologist,Male,Native American,1987-08-14,38,2518996124
+5a90f551-8c68-441f-9c6d-e13e12ad19b6,Angela,J,Dickerson,III,Dentist,Female,Native American,1973-05-05,52,1271749463
+f4c26db7-ff5a-43bd-a3f9-1bd31bcdaea2,Tommy,O,Rice,III,Dentist,Male,Black or African American,1983-04-15,42,4666907003
+c5d7545a-2417-42c7-810c-e159413dcd2c,Andrea,H,Hanson,III,Neurologist,Other,Native American,1997-03-10,28,6700563280
+02140d07-8584-453f-91d0-8b6ad158e341,Christopher,Y,Martinez,III,Dentist,Male,Asian,1994-10-12,31,1009601833
+3f213d32-4d5c-4b88-8bf7-50c78a87fe92,Jennifer,L,Parker,II,Neurologist,Female,White,1960-09-18,65,8446990764
+a02d7389-445d-437e-89e9-7cd06f0b233d,Robert,A,Jones,PhD,Neurologist,Female,Black or African American,1968-12-10,57,2016325778
+ce97a55f-a6bf-43bf-996d-8c4149da875a,Heather,E,Mahoney,None,General Practitioner,Female,Asian,1977-08-05,48,2828928710
+1c62813d-c86c-4710-af67-c57207eccc92,Adam,E,Ferguson,MD,Pediatrician,Male,Hispanic or Latino,1991-04-13,34,4648894175
+6d998fe3-c3c1-478e-b12b-30d104d93e84,Heather,J,Williams,MD,Neurologist,Other,Black or African American,1950-06-12,75,7302372455
+375f7260-09b4-4659-b3c7-7cd7e2880168,Deborah,F,Rodriguez,None,Dentist,Female,Asian,1955-02-25,70,5569133598
+f1997820-62fd-4d3b-85d7-56faea4cf024,Jennifer,Q,Davis,PhD,Neurologist,Male,White,1949-01-25,76,1389477443
+e8399874-cac7-4e15-a3ec-af8114cd06bd,Kaitlyn,B,Shaffer,None,Dentist,Other,Other,1946-07-05,79,8714240368
+4bfa9afe-31ce-4613-a335-436165013f4f,Anna,Z,Murray,None,Cardiologist,Other,Hispanic or Latino,1953-05-01,72,7410345605
+01507b6e-37f6-475d-8d73-62bdb94a7523,Mary,P,Henderson,II,Dentist,Other,Native American,1986-08-13,39,3462803686
+363c5233-c146-4eb0-9e2b-4dd1e64176d8,Angela,Y,Jensen,MD,Dentist,Other,Black or African American,1978-04-16,47,9409603839
+6fd07af9-51e7-4bb8-bb04-847885b61ea8,Martha,O,Vance,MD,General Practitioner,Male,White,1972-11-04,53,6243019045
+6714d1b5-c538-4cd0-84bc-4f1d75c03e97,Kristy,R,Frederick,None,General Practitioner,Female,Other,1986-10-22,39,9177732035
+1d63cf70-9a3d-45ec-8270-8dbba7f1633c,Corey,S,Burton,MD,Dentist,Other,Other,1960-07-14,65,3903955291
+5089f5b7-d0fe-4732-a140-b637423e15c4,Cynthia,F,Jones,None,Neurologist,Female,Other,1953-07-22,72,9745902497
+b59de2d2-5fd4-4661-ae04-a58cd44f5a17,Brittany,Y,Terrell,PhD,Cardiologist,Female,Native American,1953-07-19,72,9838604075
+b905c076-0ead-42ff-ab31-19443688ae24,Daniel,U,Long,Jr.,General Practitioner,Other,Other,1965-07-14,60,2511525967
+12b7144b-5b60-4e04-944b-78f028209319,Joseph,K,Christensen,MD,General Practitioner,Other,Other,1977-05-31,48,3298984450
+c171637a-ebf6-4b66-8a44-38c0ac45e6e5,Jonathan,T,Watkins,Sr.,General Practitioner,Male,Other,1968-12-18,57,3590493884
+de2a1052-4867-4454-a997-a495919cff56,Sarah,O,Aguirre,II,Neurologist,Other,Asian,1992-06-23,33,1960320189
+ef8b96d2-698b-4c4f-8256-b21cd25571fe,Lori,I,Massey,Sr.,Cardiologist,Other,Black or African American,1946-12-25,79,2980499616
+ff8afe16-3612-41a0-952a-83b43a8a1f91,Sandra,P,Maddox,Sr.,General Practitioner,Male,Native American,1949-06-12,76,4225935595
+c0a375b6-89cd-4389-a050-e809d765db34,Sharon,O,Collins,MD,Cardiologist,Other,White,1947-03-20,78,8223850832
+da0b268f-9602-41e1-85b8-2bfc1bb006f8,Derek,D,Scott,Sr.,Pediatrician,Other,White,1996-01-15,29,4236563170
+e2f8296b-b0c6-4441-b4f1-ce37195232db,Nicole,X,Love,III,Cardiologist,Female,Black or African American,1950-12-21,75,5506898891
+89f7b49f-e097-4fd0-936a-e3888ecc46ae,Gary,Z,Baker,II,Dentist,Female,Other,1964-06-01,61,5350776575
+53732510-7f24-4a64-b0e9-8b46d609e52d,Holly,H,Johnson,III,Pediatrician,Male,Black or African American,1971-02-17,54,6879515649
+b4869d9c-dcd1-4ed3-bc1f-3f7cf73383ed,Sandra,R,Horne,Jr.,Pediatrician,Other,White,1977-10-01,48,7265577698
+803a039a-be01-4238-9c61-74c565439bc6,Joshua,B,Jones,III,General Practitioner,Female,Hispanic or Latino,1979-10-02,46,3402076923
+5443b205-cfb1-4cf0-b0a7-92869cbbd901,Christopher,U,Hayden,Jr.,Neurologist,Male,Other,1970-10-20,55,7765607220
+3ea68845-259f-4a61-ac45-03b81a73c64c,Kimberly,Q,Brown,MD,General Practitioner,Other,White,1972-10-24,53,3770252843
+bd3d8e81-e67b-4019-97ee-1a6f75a8f702,Jason,Y,Moore,None,General Practitioner,Female,Other,1998-07-09,27,5396169416
+bb04b7eb-b07d-4e1d-9b23-4286d1525bf5,Alan,K,Cunningham,PhD,Neurologist,Other,Black or African American,1945-03-10,80,1168396960
+650a6fd6-b3b9-4510-a6d5-a574ebf369a3,Colin,B,Martinez,II,Dentist,Male,Native American,1957-01-10,68,2609516943
+6d2710ac-1e14-4162-8128-e7a17a101870,Megan,U,Cooper,Sr.,Cardiologist,Other,Hispanic or Latino,1964-03-24,61,6397287465
+85f4577c-2e3e-4a5c-b529-1d9599df3436,Kathy,B,Peterson,PhD,Dentist,Female,Other,1944-10-22,81,6921925790
+a1f366bf-21aa-458e-90d1-9fb052f36b0e,Joseph,O,Cole,None,Pediatrician,Other,White,1996-04-10,29,8628621153
+aa1312c4-3353-4089-9c86-8ebfeb918ad5,Mark,X,Dixon,II,Dentist,Male,Hispanic or Latino,1987-12-02,38,2076977714
+66dc54ac-35f5-4271-a3b9-c9a8a7e29a4f,Donna,G,Hall,None,Pediatrician,Female,White,1984-02-07,41,4041094863
+092dd625-1dc5-4d2a-8e9f-e40aec94eec1,Tiffany,L,Buckley,II,Neurologist,Other,Other,1999-03-02,26,3094036231
+41f85988-3f51-4ad8-8d19-3434382d90fa,Jennifer,A,Fisher,None,General Practitioner,Female,Asian,1976-11-25,49,5688338062
+fdbf9202-a311-48bf-91ec-04015cfe2c01,Douglas,Z,Brown,III,Cardiologist,Other,Other,1965-05-03,60,4078625299
+89b0bd4b-5224-43c3-86cb-5848dd80289a,Laura,D,Lowe,None,Pediatrician,Female,Other,1944-10-22,81,1534759823
+bbc6a5aa-0227-478a-ba92-275bce462e6f,William,O,Powell,III,Pediatrician,Other,Hispanic or Latino,1964-01-02,61,5370058074
+4476e454-b000-4247-a183-8e105525f410,Brian,M,Quinn,II,Dentist,Male,White,1956-03-30,69,2860993512
+9875bb2e-cfde-484e-9232-98ae0923fadf,Sandra,B,Rodriguez,Sr.,Pediatrician,Female,Hispanic or Latino,1954-05-12,71,1928166652
+c04ecfad-71db-42b2-b521-c6a3bab248ba,Eric,J,Thomas,MD,Cardiologist,Female,Asian,1989-04-23,36,5226143576
+c41aa678-bd8b-4582-9c79-5c9be35bdcd4,Howard,Y,James,III,Cardiologist,Male,White,1988-04-30,37,9934972266
+36c826bd-6d79-4daf-989c-142227d775b4,Stephen,M,Chandler,II,Dentist,Other,Hispanic or Latino,1989-08-03,36,9341671505
+75f8ca6a-aea2-4e93-a743-241e1332b8cd,Charles,K,Jackson,Sr.,Dentist,Other,Other,1979-09-05,46,3490133606
+b078070a-32d6-4065-b7ac-c8bd840b95e3,Laura,S,Petersen,Jr.,General Practitioner,Female,Black or African American,1965-03-29,60,6468635378
+5bd3ac43-a4b6-4e7e-9a33-b4957e8a46e3,Jeffery,R,Warner,Sr.,Cardiologist,Other,Other,1999-02-02,26,3586728829
+c6883de8-747e-4d50-afc7-1da50850be86,Joseph,R,Hendricks,II,Pediatrician,Female,Asian,1973-12-15,52,6259362185
+4fcbef42-0259-4a04-ac39-06d09f6cd098,Wanda,H,Simmons,II,Neurologist,Other,Hispanic or Latino,1953-09-04,72,1273110030
+a419f742-ad84-4da1-aa39-2fc38dc3f2fa,Ashley,S,Alexander,II,Pediatrician,Female,White,1965-06-29,60,9349225055
+046287f7-4911-40f6-9472-284c601b6417,Gina,T,Allen,Jr.,General Practitioner,Other,Hispanic or Latino,1975-07-28,50,9002411835
+cd1faa19-c534-4b52-95a3-4267c6321e22,Kevin,A,Miller,III,General Practitioner,Other,White,1945-01-04,80,4801715291
+883a25a6-e3f9-4a8e-97ee-b92c4d2a1f74,Julie,Q,Doyle,II,General Practitioner,Male,White,1998-01-03,27,1707224757
+272098ad-31ed-43dc-8546-1e8955707b4b,Timothy,Z,Khan,MD,Dentist,Other,Asian,1962-11-24,63,1320845781
+28dcaffd-9255-4700-9463-f0e64ae62cec,Amy,S,Stein,II,Neurologist,Female,Black or African American,1973-10-01,52,8558622061
+0dd72c79-7462-4619-bd21-58852a9e702d,Omar,G,Sparks,Sr.,Pediatrician,Other,Asian,1968-11-16,57,8611373566
+8d23547a-adbb-4b6c-aeb0-d8e8f819343b,Clarence,X,Banks,MD,Pediatrician,Male,White,1977-08-28,48,3650655028
+2fab464e-160f-4e3c-8d8d-c0b0a0a50231,Rebecca,D,Henry,Jr.,Cardiologist,Female,Hispanic or Latino,1992-09-18,33,7687121290
+c235196c-28db-423a-a934-96b88158547b,Bruce,Z,Mckenzie,Jr.,General Practitioner,Male,White,1968-01-29,57,3620559909
+797e7e28-a792-4b70-bfd3-c6be830fab9f,Brandon,X,Hill,PhD,Neurologist,Female,White,1974-10-21,51,8255140610
+082e8507-e833-49db-9393-9a13e90f2d23,Isaac,K,Shannon,III,Cardiologist,Other,Other,1976-12-06,49,2585781886
+91e3eba8-a634-4528-a90d-96cd1b1ca260,Rachel,P,Anderson,Jr.,Neurologist,Male,Black or African American,1976-07-01,49,1214327596
+927ee040-ffeb-430d-9754-b97565a490c9,Tyler,M,Marks,PhD,Cardiologist,Male,Asian,1956-02-08,69,1258133095
+b8cf8578-047e-4b33-b7ef-984217f63c98,Paul,K,Turner,Sr.,Cardiologist,Other,Black or African American,1976-07-29,49,7919920592
+da72776a-735f-4213-84a9-302fa9331649,Curtis,I,Holden,MD,General Practitioner,Other,White,1959-11-10,66,5614939952
+73ca839c-3fbb-428d-aa02-521d4640a3d1,Leslie,L,Pham,PhD,Pediatrician,Female,Black or African American,1987-09-07,38,6004877289
+5d418eb8-06b6-4889-a709-d63f8b3162f7,Stacy,Y,Gray,III,Cardiologist,Other,Hispanic or Latino,1958-06-29,67,9276357783
+2be8b440-1bef-412b-b893-777971ebc24f,Christine,M,Aguirre,None,Dentist,Female,Native American,1990-08-04,35,6572244186
+d3c4a0bd-3610-4027-ab56-846849169871,Leah,P,Zimmerman,Jr.,General Practitioner,Other,Asian,1981-05-08,44,6797690410
+68495a0d-25fe-4264-91dd-10eac90b1663,Mary,G,Ramos,MD,Cardiologist,Female,Other,1950-09-27,75,1087154019
+20c2302a-9959-42cb-9d77-9ecd84149646,Michael,I,Phelps,Sr.,Pediatrician,Other,Native American,1964-09-13,61,9286434764
+c081aaf1-f57b-4633-b27d-0d58e02d32df,Travis,D,Johnson,MD,Cardiologist,Other,Other,1981-01-28,44,9200653918
+9d644f61-1ffe-4d20-8591-db6ff355e308,David,O,Green,None,Neurologist,Female,White,1949-08-01,76,2365062920
+5818d8a1-e322-4160-b94b-6e1be0e7c709,James,X,Levy,Sr.,Dentist,Female,Native American,1984-06-24,41,9984706864
+b806b09c-5798-4b00-b67f-263c3fa54ddc,Vicki,K,Martinez,III,Dentist,Female,Asian,1997-12-13,28,8235539569
+bd3081fe-8103-4687-91e4-17de7bd8b26c,Alicia,M,Sims,Sr.,General Practitioner,Female,Other,1951-09-14,74,9300254967
+947a2842-4a3e-40be-aefe-d049ac1242fb,Amanda,O,Cruz,None,Pediatrician,Other,Black or African American,1957-01-06,68,7961356476
+c67d97ac-5e4e-45bf-87a2-eb77c792098a,Annette,T,Christian,III,General Practitioner,Other,White,1961-11-06,64,9517781842
+b0251206-ebad-4ada-b915-bc78b519de71,Lisa,C,Malone,II,Pediatrician,Male,Other,1950-02-16,75,4623213740
+f601e63f-9cfb-49eb-bab4-6143ff5e73e3,Natasha,Z,Sanders,Sr.,Cardiologist,Other,Other,1965-05-25,60,1875212378
+4b8f17a1-1c6a-4837-9841-f8bc56088bb1,Zachary,J,Hunter,PhD,Pediatrician,Other,Asian,1977-08-16,48,3155066617
+4ea1a4aa-0d3c-475d-a57b-774d49744d15,John,X,Calderon,None,Neurologist,Male,Other,1964-02-19,61,9755480594
+07081633-fa3a-4fc0-bba2-3a45e8e75464,Margaret,R,Reynolds,None,General Practitioner,Female,Black or African American,1996-06-02,29,1557547164
+a2a9aa42-a27a-440e-ae0c-82bd2addc7fb,Ricardo,E,Barnes,III,Cardiologist,Female,Native American,1979-05-11,46,5515196272
+943bb806-932f-4795-aebd-0e564029b271,Samuel,L,Townsend,Jr.,Neurologist,Male,Asian,1963-11-27,62,9501535315
+0becf9c1-9fd3-4c2b-958d-2bf0c4026576,Suzanne,X,Williams,MD,Dentist,Female,White,1986-02-12,39,1168407465
+9e87b13e-3ca5-455d-8165-93bd647441a2,Maureen,Y,Freeman,III,Dentist,Male,Other,1989-01-11,36,3199304352
+11ef8eba-52ae-45a6-b8e7-5fc4fc13d88d,Jake,B,Moore,Sr.,Cardiologist,Other,Hispanic or Latino,1998-08-24,27,5318310624
+b1735bcf-2aa9-46e7-b91f-90dcb64495ab,Ann,O,Anderson,Sr.,General Practitioner,Male,Native American,1972-01-25,53,8181007489
+6fcbabd5-f0b7-43e8-8edf-3820b243e16b,Jack,R,Pena,Sr.,Neurologist,Female,Native American,1946-08-10,79,4885885352
+94d35eef-e29e-428b-8a2d-b1ca1ec533a8,Patricia,A,Durham,II,Cardiologist,Male,White,1966-03-19,59,4068347664
+41d7a16e-22bb-466b-b065-91ff268fa9d5,Malik,G,Martin,II,General Practitioner,Other,Native American,1999-04-30,26,7227641786
+a0e90b39-9aee-4e2c-8ae8-c00e1fb8db1d,Vanessa,G,Steele,Jr.,Cardiologist,Female,White,1974-08-24,51,6284216727
+64a5cd5a-5319-434f-a0f8-2c6c5aa64052,Charlene,G,Allen,II,Neurologist,Male,White,1953-08-16,72,5190643136
+b770da94-0ebe-4574-ba68-4387c18392fa,Erica,W,Daugherty,None,Pediatrician,Other,Other,1951-05-31,74,2289388992
+96a66102-b046-4996-981f-5f21c2c5d313,Jonathan,A,Watson,PhD,Dentist,Other,Black or African American,1998-03-11,27,6400046618
+236b5472-3c70-4a09-8033-b7f0bef90dc2,Adam,I,Wade,Sr.,Dentist,Female,Hispanic or Latino,1953-10-21,72,6825816120
+985bf52c-6e03-4276-883f-bfe842929ace,Wanda,U,Owen,III,Cardiologist,Male,Asian,1966-12-17,59,8686415188
+c319da75-1ca5-4a74-bcae-43548cd16be9,Anthony,F,Burton,Jr.,Pediatrician,Male,White,1949-08-30,76,2117766661
+f44cc6e3-27b5-4cc3-be29-3741f09f790c,Jonathan,U,Campbell,PhD,Neurologist,Male,Hispanic or Latino,2000-06-30,25,1520537221
+02722362-aa33-40ef-b100-1d05b1728752,Susan,S,Wong,MD,Neurologist,Other,Other,1963-02-28,62,1507830027
+42d883d2-15db-494b-9f4c-ba4e13c862ca,Nicholas,J,Wheeler,PhD,Cardiologist,Other,Asian,1992-07-04,33,2271987012
+64cf71c9-28cd-4bd6-80ff-6939c1b69fdb,Steve,V,Clark,None,Dentist,Female,Black or African American,1967-03-12,58,7302272289
+90a58c8c-1681-4357-89e1-0f56ede0fe92,Kevin,P,Barnes,PhD,Dentist,Other,Hispanic or Latino,1977-01-09,48,7089050449
+94f77bd8-caf5-4975-ac4d-8d546a3d40b8,Beverly,Q,Smith,MD,General Practitioner,Male,White,1948-09-28,77,4701652501
+6dd7fc69-51ee-4a3f-ac2d-9dbdf7ec21d2,Earl,V,Chandler,None,Pediatrician,Male,Hispanic or Latino,1968-05-29,57,7257626250
+8ac04fae-9f9e-4c24-a57e-7e6e8bf65cb3,Melody,O,Jones,Sr.,Pediatrician,Female,Hispanic or Latino,1994-12-19,31,7711914713
+4f7d026c-8582-43f5-b0e8-0ee495e4c786,Kevin,K,Rodriguez,Jr.,General Practitioner,Female,Native American,1989-12-15,36,4462858066
+4b5e782e-47b7-43ed-8934-a88038750830,Joshua,I,Martinez,Sr.,Pediatrician,Female,Native American,1964-06-13,61,5702711293
+b4cbf749-f2c5-45fb-a6da-7ee08ed277a6,Michelle,Y,Morris,PhD,Cardiologist,Male,Hispanic or Latino,1991-06-28,34,5978345010
+da50c959-e92c-402e-8402-e0cd585be7fb,Gerald,J,Small,None,Cardiologist,Other,Native American,1954-12-29,71,5408420489
+4ec16033-0efe-4ae4-9941-c97a72cc4523,Kristin,L,Rodriguez,Sr.,Dentist,Other,White,1985-03-30,40,3570669606
+6d9d396e-d303-4a0c-9f83-da91863951a0,Kristi,E,Kelly,II,Dentist,Female,Black or African American,1978-04-03,47,9226672757
+023237f2-bec0-4f73-bd5d-0eca9f64023e,Thomas,F,Porter,Jr.,Dentist,Other,Hispanic or Latino,1967-11-04,58,8393585149
+b0fd3a88-273a-4382-b8c2-44b7c3bc4c5c,Robert,N,Harris,III,Neurologist,Other,White,1962-08-08,63,8475906533
+755cc04a-979a-4f71-b65a-5e366feeffc8,Rebecca,E,Blackburn,None,Dentist,Male,Hispanic or Latino,1949-01-01,76,6755149927
+2a4f43e8-dcfe-401f-8519-a1c3c95e19c7,Christopher,Y,Wilson,Jr.,General Practitioner,Male,Other,1964-01-28,61,7385224507
+7465b64c-ff53-4a02-a9fe-fbb3f70b7c1d,Scott,O,Malone,MD,Dentist,Other,Native American,1968-08-27,57,3472674608
+28e8f960-24bb-455f-8629-0f3b275a1c7f,Lori,V,Williams,II,General Practitioner,Other,Hispanic or Latino,1981-10-19,44,8659142121
+30859fa3-0d0b-495f-827d-db17290667c2,Diana,D,Benton,PhD,General Practitioner,Other,Asian,1973-12-02,52,3591265368
+c9f8611f-4cc5-4c43-aeb0-1ecbace86669,Timothy,Y,Guzman,Jr.,General Practitioner,Male,Native American,1998-08-14,27,6673817680
+8da87307-8ea6-4f6e-9224-a333b1a67187,Jesus,B,Meyers,II,Neurologist,Other,Other,1969-01-12,56,5818838334
+3ccb1ceb-4bfa-4917-9c65-bd0c0242c2aa,Nathaniel,B,Werner,PhD,Dentist,Other,Asian,1981-12-31,44,7315075572
+2852eabb-a6a2-499e-a1d0-3de67fbb124b,Gloria,Q,Patton,MD,Cardiologist,Female,White,1957-03-06,68,5731248644
+ad58ffa4-129e-4fae-bf30-e09241781921,Dana,A,Jacobson,PhD,Dentist,Female,Hispanic or Latino,1994-11-27,31,6368792981
+a6449f2c-7374-4277-a614-cba804f3281b,Jessica,C,Miller,Jr.,Neurologist,Male,Hispanic or Latino,1984-02-24,41,2224882801
+ce8b8d12-180a-4694-a026-4eb71496b64b,Nathaniel,G,Cobb,Jr.,Dentist,Female,White,1971-05-13,54,9768916384
+229204af-9adb-4549-a34e-60575dfa13ed,Brian,G,Sanders,PhD,Neurologist,Other,Other,1951-02-10,74,6316223807
+98ba5526-edab-4fcc-9943-d9ab697cefb3,Jennifer,Q,Perkins,Sr.,Dentist,Female,Hispanic or Latino,1975-05-26,50,3972370511
+bf95ec13-c5cc-41ec-b4a1-ae328b0d3347,Mary,K,Gomez,PhD,Pediatrician,Other,White,1999-12-01,26,1256536179
+77045305-e295-4098-ba0e-0d89efd4a5dc,Timothy,M,Clark,PhD,Cardiologist,Other,Hispanic or Latino,1961-07-11,64,8229628588
+4ded5048-9cd4-4910-aea9-139bb526c228,Ian,Q,Lozano,None,Pediatrician,Female,White,1982-01-25,43,7337054876
+02b3506b-1077-49aa-ac99-10840b0f6b13,Sarah,I,Parker,II,General Practitioner,Male,White,1983-10-22,42,4650150707
+a713b976-4bf5-4464-bc17-606603a39d35,Anthony,J,Gonzalez,III,Pediatrician,Male,Asian,1964-12-30,61,3805844855
+16fd6d5f-a8a5-4de1-adf0-bc730f34cb80,Nicole,A,Dixon,MD,General Practitioner,Other,White,1951-03-16,74,3927555709
+807f072f-05ef-48d2-9811-c066f07e5106,Lori,C,Raymond,Sr.,Neurologist,Female,Hispanic or Latino,1989-09-23,36,6078865885
+59b470a8-8405-449f-95d7-0cf10b1fa746,Kimberly,D,George,II,Dentist,Male,White,1987-11-10,38,6702124752
+1402229e-097e-4019-a8cf-28f07b461907,Philip,T,Jones,Sr.,Pediatrician,Male,Black or African American,1998-10-02,27,7039050343
+8e0c0dd6-0fdf-4bc8-8318-12f1534a529b,David,Q,Taylor,MD,Neurologist,Female,Asian,1958-10-07,67,7123495499
+4163acd9-a08f-4b6f-9281-c42cf2541e8f,Kenneth,X,Douglas,MD,Dentist,Male,Hispanic or Latino,1950-08-14,75,8398041358
+853b8900-3deb-4e82-b2b1-79f7ff45d54f,Tammy,W,Hernandez,PhD,Neurologist,Male,Other,1969-09-01,56,1391394273
+54eda3ba-223f-4d06-8f1a-40e1ba6bbf44,Alex,E,Jones,Jr.,Neurologist,Male,Asian,1945-05-28,80,7415435253
+4087647d-3116-4266-b3fa-7d132e576e9c,Ricardo,O,Smith,II,Pediatrician,Female,Native American,1972-03-04,53,9123371138
+2b4ded5b-9e5b-4f33-bd0b-37f4d5be2a14,Thomas,V,Young,III,Pediatrician,Male,Black or African American,1952-01-09,73,3018631484
+05e3225e-ab1f-415c-bb25-c4cfc2a84e86,Jack,Z,Mckee,PhD,Neurologist,Other,Hispanic or Latino,1978-10-01,47,7517670784
+fb9d3e69-ea75-4a79-9a5b-6090b95be763,Donna,Y,Riley,Jr.,Dentist,Female,Black or African American,1975-08-27,50,9876626388
+05e8ba35-95bf-4859-9a80-89bf43a84ed9,Amanda,R,Stewart,II,General Practitioner,Other,Native American,1975-11-11,50,1547297381
+5e72454d-f741-43ca-aa15-35ea8cd2ff50,Maria,M,Lee,PhD,General Practitioner,Male,Hispanic or Latino,1957-10-31,68,6135437779
+991b1336-7629-40b2-bb8a-7d7ee544826a,Jeremy,B,Little,PhD,Pediatrician,Other,Hispanic or Latino,1983-01-08,42,2454000708
+5c09736c-dd90-4710-95f9-b277c6e622e7,Kelly,W,Graham,Sr.,Cardiologist,Other,Native American,1947-03-26,78,3532013005
+6ea133ff-f9c6-46a3-8253-50ea0f4e61b5,Matthew,I,Jacobs,III,General Practitioner,Female,Hispanic or Latino,1996-09-15,29,9975932763
+a13569c8-6578-4ff5-9707-5957d5cde9d8,Tracey,N,Liu,MD,Neurologist,Male,Hispanic or Latino,1991-08-24,34,9320210512
+ddef8efc-6682-45a3-8daa-fe75f94ef454,Ruth,U,Andrews,II,General Practitioner,Male,Native American,1982-08-24,43,8511512025
+fb8e1b3b-cd6b-4aa5-8e8a-1596ed81800c,Pamela,Y,Burgess,II,Dentist,Male,Other,1964-01-03,61,9703185753
+b2bfa529-b7e7-45de-b33b-68db89d77472,Elizabeth,G,Copeland,Sr.,Cardiologist,Female,White,1958-07-08,67,4315579625
+7a2976af-7c29-4647-b0b1-1d73bf047a32,Erin,H,Brown,MD,Cardiologist,Other,Other,1983-09-01,42,1009081768
+0d86dec5-8489-478f-9b5c-797b3fc29956,Douglas,E,Bruce,Sr.,Pediatrician,Other,Other,1986-04-03,39,9912856581
+309474d2-e517-4350-bc39-6a7663a9d8ac,Cassie,N,Bowen,MD,Neurologist,Female,Asian,1968-03-11,57,7445932091
+a5c46554-6375-47de-bed5-284bb3510476,Shane,M,Williams,II,Dentist,Male,Asian,1961-10-13,64,3330364057
+2133f47d-5228-47f5-af03-485d32c86ec8,Diana,M,Hicks,II,Pediatrician,Female,Black or African American,1998-08-27,27,8828467121
+c5e2efd1-24c2-481d-aa3f-5186a0b0b564,Kenneth,R,Hunt,Jr.,Cardiologist,Male,Other,1965-07-20,60,8387132504
+486468b9-6ab7-4bd2-bc67-3cd486417390,Allison,C,Medina,PhD,Dentist,Female,Native American,1957-02-03,68,8814071528
+2fae521a-8600-4cdf-9f6c-ab144ea98796,Carolyn,C,Cruz,II,Neurologist,Female,Native American,1981-04-23,44,2892359069
+63065764-4c26-4bea-b08e-876d0ab8f14c,Vanessa,Y,Phillips,III,Cardiologist,Other,Asian,1962-09-24,63,3735626993
+0f83daea-d834-4d51-b93f-ccc81828d7d2,Christopher,Q,Cox,III,Neurologist,Other,Black or African American,1945-10-09,80,6593791050
+68da3d6d-0904-4ca1-9a81-92fdb31c115b,Lawrence,Y,Howell,II,Cardiologist,Other,Native American,1971-02-22,54,6615578045
+d44f80cd-2880-407b-b9aa-89fffa0b04fe,Kimberly,X,Thomas,None,Pediatrician,Female,White,1992-04-07,33,3197975962
+2688a773-a42c-4e97-9622-5bb4d4419490,Claudia,D,Butler,None,Neurologist,Other,Black or African American,1952-11-12,73,4115380364
+bd889ddc-39fc-45de-a073-8b176df9eb15,Sheri,O,Villarreal,Jr.,Pediatrician,Other,Other,1952-10-17,73,6281028076
+47db9d5f-7d2d-4b4e-98b7-774b438e36a1,Tara,X,Rodriguez,MD,Pediatrician,Female,Native American,1995-11-08,30,6368204409
+0e2906fe-0aba-4e1d-99a2-205f0ab780f3,Sabrina,Y,Harris,MD,Pediatrician,Male,Other,1946-02-06,79,8691946717
+427602b2-2702-4fe8-be05-b22f06715ae5,Kristina,C,White,Jr.,Dentist,Male,Black or African American,1992-06-23,33,9015994448
+75cb6445-6e1f-4bdc-91b7-32adb510ead2,Lindsay,C,Benson,III,General Practitioner,Female,White,1957-11-30,68,9835353449
+38001740-51c8-4d2a-8463-e5350c25d128,Robert,G,Castillo,Jr.,Pediatrician,Female,Native American,1956-06-18,69,8926937341
+83f832ee-7452-4337-8aef-97ea023a7793,Steven,E,Willis,Sr.,Neurologist,Male,Black or African American,1982-09-13,43,8356595130
+11750dd6-7a14-4256-8957-bb536e9dcd32,Jake,N,Johnson,Jr.,Neurologist,Other,Other,1996-10-16,29,6813957289
+7cd6041f-4a54-4723-9208-cab1459a3362,Shelly,X,Thomas,Jr.,Neurologist,Male,Hispanic or Latino,1949-07-04,76,6880161204
+6b7dee77-5c11-457b-908b-22337fc58125,Paul,H,Castro,Jr.,General Practitioner,Other,Black or African American,1987-10-25,38,2743870197
+bb4eba45-e0c3-43f7-b2ab-fc7d8ee3d970,Jennifer,T,Horton,None,Pediatrician,Male,Asian,1995-01-21,30,7418391676
+cb4c5d1b-39fe-422a-844a-f4740da83892,Megan,R,Browning,II,General Practitioner,Male,White,1957-07-07,68,1557854634
+70c75069-4d99-47e0-96a5-f00a2016beb0,Timothy,P,Moran,Sr.,Pediatrician,Male,Black or African American,1972-01-06,53,6937276299
+ca633dab-1d2a-4ec8-85f3-1c8993eaf8e8,Jared,S,Daniels,None,Dentist,Female,Black or African American,1966-05-25,59,6080741126
+6085f830-1659-4b8b-9479-fa8478c0f75b,Debra,Y,Reed,III,Pediatrician,Female,Native American,1950-09-13,75,9373144973
+7bbb0dad-2dd0-4077-a423-96a13e0283d3,Kenneth,J,Jones,II,Cardiologist,Other,Asian,1944-07-22,81,2951566516
+d1ecc235-7e2b-4bd4-afde-4c80f75cae02,James,S,Walker,II,Dentist,Female,Hispanic or Latino,2000-02-25,25,2631139556
+0c4538c4-49a0-40f9-9d6e-a9a98fde7fab,Christopher,E,Rogers,III,Dentist,Male,Black or African American,1959-10-12,66,4700962365
+f76a8267-5d1d-4845-b0d1-eaef661162e1,Scott,N,Watkins,MD,Dentist,Other,Black or African American,1973-12-28,52,8379813365
+e878fee8-46f7-4e15-9b22-1ec6ee308105,James,Q,Golden,PhD,Neurologist,Male,Native American,1955-07-24,70,5356296513
+283ab112-96c0-4810-9e89-81db91636596,Shane,I,Molina,None,Cardiologist,Other,Black or African American,1992-09-21,33,8194749308
+6ee1f784-5398-4d93-a95a-2c370c66e2ed,Zachary,S,White,None,Dentist,Other,Black or African American,1952-01-09,73,9926028760
+2719b362-2949-4408-8126-e35afbcf6a6c,Stephanie,I,Stone,None,Neurologist,Other,Native American,1991-08-23,34,1227676689
+bf516424-8b9b-49f8-854f-3e6d2821936d,Caitlyn,R,Tanner,Sr.,General Practitioner,Other,Other,1978-03-02,47,7981578961
+4ac4a3f2-25eb-42ef-b6d7-c2be79d96acd,Cameron,M,Anderson,Jr.,Neurologist,Other,Asian,1952-11-18,73,3310694428
+abcfd6b1-e842-4734-abc2-d79dcab28bf4,James,D,Lin,III,Pediatrician,Female,Other,1951-07-20,74,7857520358
+28cebf69-2f73-48be-9cbb-601db6825da8,Scott,V,Lee,None,General Practitioner,Other,Hispanic or Latino,1996-07-01,29,3730386236
+ec0a0a23-72b5-4fc8-a8c2-d3625ebe7fe1,Alexandra,R,Guerra,Sr.,Cardiologist,Female,Native American,1972-10-09,53,1572283810
+58df1b14-840e-46f2-b0d3-f4dfb6ebe41d,Elizabeth,Q,Moore,PhD,Neurologist,Female,Black or African American,1973-05-06,52,2359964987
+b33f2bc5-cd9f-48ec-8ee3-f954212f6d11,Richard,I,Ross,III,Dentist,Female,Other,1977-02-24,48,2624866522
+494b4716-9693-4c8e-bb0b-63e8e7fea2c9,Christopher,F,Cardenas,Jr.,Dentist,Male,White,1969-04-05,56,9876098256
+8a899894-05fe-4066-9e08-8015c07d58d5,Debbie,P,Pacheco,Sr.,Pediatrician,Other,White,1997-06-07,28,5193662665
+c214f79f-36d2-43b0-8b8a-687b9f8c398c,Brandi,C,Sanchez,None,General Practitioner,Male,White,1998-04-19,27,1796506381
+d882c8de-5467-46ad-adf5-86d06c122294,Christian,L,Hamilton,PhD,Neurologist,Male,Hispanic or Latino,1945-01-13,80,7109059530
+b016c948-e740-42a2-99b4-4fcc5a08beb2,Susan,C,Roberson,III,Pediatrician,Female,Black or African American,1981-07-03,44,3299728889
+ac04edae-c34d-456c-8c0b-b3a8007fba64,Stephen,M,Allen,Sr.,Neurologist,Female,Native American,1982-11-26,43,3107726055
+879dbfe6-2de1-4d4c-a5ca-9587149de5b4,Steve,B,Wolfe,II,Pediatrician,Female,Black or African American,1976-02-27,49,6669993463
+c1ca49f3-aaf9-4533-91e5-93dc5c053746,Christine,B,Ross,MD,General Practitioner,Other,Native American,1972-09-11,53,7584175738
+f1996a76-54a8-4d6a-ab8c-39e29bcb818f,Melvin,N,Johnson,III,General Practitioner,Female,White,1964-06-10,61,8260445736
+39bd1a18-945c-42fe-8491-3722c223e0a9,Timothy,Z,Davis,III,Cardiologist,Male,White,1982-12-29,43,1432129259
+48e07bb9-db16-49e8-b0c5-af1ba817f4fe,Vanessa,Z,Bailey,III,Pediatrician,Other,White,1998-11-22,27,2490141035
+94d635af-8686-45fa-bbd2-a36b5adfddba,David,X,Jones,Jr.,Cardiologist,Other,Other,1975-01-22,50,2195130675
+5e7f85e9-5ee2-4976-a43a-2804c6e08968,Christopher,U,Hull,III,General Practitioner,Other,Other,1985-01-28,40,9303879245
+a9096ff8-180f-4607-b4e2-4126a52ce215,Melissa,A,Oliver,III,Dentist,Other,Hispanic or Latino,1981-05-26,44,4042719297
+c642b697-17be-4a95-bbd9-8ac393985e7a,Joseph,E,Edwards,None,Neurologist,Male,Black or African American,1958-01-13,67,4291112241
+7e9c0792-fc05-481d-8ae9-52020aca128e,Cory,I,Barber,Jr.,Pediatrician,Female,Hispanic or Latino,1986-08-02,39,9327095909
+444b399b-7e5c-4bfa-a6a6-b9992b08ada4,Douglas,T,Davis,II,General Practitioner,Other,Black or African American,1977-09-04,48,9921584771
+2ec6b5f8-49c9-47e4-9c84-e5e763d83595,Andrea,G,Walker,II,Cardiologist,Male,Asian,1952-10-31,73,7739050863
+666d7dab-8cc6-4e92-b438-b6c550dc80a6,Elizabeth,V,Maxwell,Sr.,General Practitioner,Male,White,1986-01-06,39,7975835787
+771c0164-c90b-42ca-8612-935c11b162ff,Frank,E,Martin,Jr.,Neurologist,Male,White,1955-10-16,70,7402169100
+b8df165a-b2dc-48c8-b4f0-55d2f48b6c8d,Sheila,T,Lee,MD,Cardiologist,Other,Other,1986-04-27,39,2477447570
+ec0badcf-a9aa-4d3e-a746-73f5f4cbefb9,Rebecca,C,Harmon,MD,Cardiologist,Other,Other,1944-07-23,81,4140116362
+9e208879-1184-44c5-b2ec-0aff0da4663d,Jeff,L,Crawford,II,General Practitioner,Male,Asian,1959-12-19,66,6924209109
+42552847-2367-4528-aed3-9a414c99f96d,Patrick,Z,Russell,None,Neurologist,Female,Asian,1983-03-11,42,8558289547
+b7901b4a-21bf-4449-922d-a856bb9f2f27,Craig,H,Silva,None,Pediatrician,Other,Black or African American,1988-08-19,37,9370325316
+ae274bc2-4cda-4439-a62e-3a5358159ff5,Steven,H,Ayala,Sr.,Cardiologist,Other,Asian,1981-03-07,44,2430060101
+e1435a53-540f-40da-9cbb-cf58abaa8f60,Amanda,J,Miller,Sr.,Pediatrician,Other,Other,1978-08-31,47,9203146640
+546fcabf-d874-4284-802c-42f95e3f688c,Vickie,Y,Wright,MD,General Practitioner,Female,Black or African American,1976-04-27,49,1276094071
+28e6b0fb-cccd-4147-be64-3d514ae0d51f,Jennifer,Z,Miller,PhD,Pediatrician,Female,Hispanic or Latino,1956-04-21,69,4442910422
+982f05f5-bf6a-4ef8-9f72-fe8e029aeed8,Lee,O,Brown,Jr.,Cardiologist,Male,Black or African American,1967-07-15,58,7237004582
+164e5172-7350-40ba-a1b0-2602ec506a7e,Angel,O,Rose,PhD,Dentist,Female,Native American,1970-02-24,55,9088659083
+928b8e7d-16ba-484d-901d-01188ab04b13,Shawn,H,Evans,II,Pediatrician,Other,Asian,1967-09-10,58,8492542514
+b932d6a9-af3b-406e-86c1-8d3d87a89bfa,Caleb,Q,Duncan,PhD,Pediatrician,Male,Black or African American,1973-10-12,52,8842320902
+8305f3b8-ddc4-452b-8fe3-42ac65f594fe,Calvin,G,Fisher,II,General Practitioner,Other,Hispanic or Latino,1965-04-12,60,9595473499
+7efa8e7a-2849-4ec2-bb76-82250e03a1b3,Michelle,J,Simpson,PhD,Cardiologist,Other,White,1968-09-23,57,3505953398
+2018c310-c2f9-49a5-85b4-865d04979ac3,Jessica,I,Johnson,PhD,Pediatrician,Other,White,1969-03-22,56,5519821374
+0a47da03-0c68-41f6-8b2a-778c464896c8,Laura,M,Aguilar,PhD,Neurologist,Other,Native American,1961-10-14,64,3070498336
+6c4bcfc2-c7d2-4325-9311-637b74505630,Maria,D,Pace,III,General Practitioner,Female,Black or African American,1985-09-04,40,3715449793
+d5551a16-8ee7-4972-b8a8-33492e3e4e19,Frederick,W,Brewer,Jr.,Neurologist,Male,Black or African American,1995-07-24,30,8114780770
+223c67f3-4724-48b7-bbd4-d78a27e07851,Kevin,Y,Pruitt,Jr.,General Practitioner,Male,Native American,1971-05-14,54,5491669507
+97428306-9cf7-42da-85c6-b4b8800bcc91,Melinda,V,Mills,MD,Cardiologist,Female,Black or African American,1993-08-13,32,1637001257
+943aa7b5-f44e-490d-b1d7-03dd56a80aee,Christine,I,Allison,MD,Cardiologist,Male,Other,1947-12-11,78,8668826725
+8a52fd15-58bc-416e-a5e3-75134df27a77,Douglas,B,Sosa,Jr.,Dentist,Female,Other,1995-06-04,30,4124243697
+3b83af94-9e8d-4de8-82eb-cd4f78775595,Lindsay,W,Sherman,PhD,General Practitioner,Other,Black or African American,1978-05-26,47,9270481532
+41cd1708-682e-4338-9fa4-bc5c4a60dc7a,Karen,Z,Rodriguez,III,Pediatrician,Female,Black or African American,1944-09-13,81,3671470538
+4ee9784c-1f0a-4004-afb4-dd1590ce668e,Charles,L,Oneill,MD,Neurologist,Female,Asian,1954-06-11,71,9932931055
+affd32b9-0581-4c02-aca2-6fd9e34435aa,Roger,U,Bennett,Jr.,Pediatrician,Male,White,1947-11-05,78,7666184294
+2f59ccc1-15e8-4a9b-8190-c31937a8bd0a,Christopher,F,Lee,MD,General Practitioner,Other,Black or African American,1976-05-07,49,4722474183
+7a24d9ea-6d76-44e3-a460-677d3e471d54,Faith,R,Hill,MD,Dentist,Other,Asian,1997-04-15,28,2733680557
+1d357650-5852-4dea-9a8b-c107962473be,Vincent,C,Li,MD,Pediatrician,Male,Other,1989-08-13,36,1888726981
+8452ba85-1836-4da8-aa5e-4e8fa31d9e4b,Cynthia,R,Holloway,Jr.,General Practitioner,Other,White,1994-04-25,31,1225629110
+c3a23246-6b44-4071-bfc7-df642ee5c877,Mark,J,Clark,III,Pediatrician,Male,White,1992-09-25,33,2986921096
+ae3071fb-6296-4c6a-aac4-2a22d8a86253,Pamela,M,Cantrell,Sr.,Pediatrician,Other,Asian,1974-11-02,51,5675833433
+5074185d-7560-4849-a4f8-8cf13a001880,Katherine,K,Hamilton,II,General Practitioner,Female,Asian,1950-03-07,75,7967668370
+55d7d615-833e-40b9-a5bb-d51ec5d1baf4,Patrick,Y,Tanner,III,Pediatrician,Female,White,1951-05-01,74,9289403457
+ec8db6d9-cb50-4e9f-bcfe-0e8123226894,Beth,O,King,MD,Pediatrician,Male,Asian,1960-07-01,65,4070470718
+6a6b72d3-84c2-4c4f-af4b-6964c4a51286,Ryan,A,Strickland,II,Neurologist,Male,White,1993-10-27,32,2123927157
+62d36fff-cdbd-4591-bac4-45ecd5989cc7,Dawn,M,Glass,Jr.,Pediatrician,Other,Black or African American,1981-03-07,44,9651769761
+bb9cce4f-c82b-414d-bf9b-cb9c961cfccd,Christine,X,Campos,None,Dentist,Female,Asian,1961-03-08,64,2640799613
+8bca4526-6c96-4bd6-aed3-73403f7e4059,Bonnie,Y,Cervantes,II,Cardiologist,Female,Asian,1995-05-04,30,7572231722
+175df438-0949-4438-8267-3316765811c4,Kevin,H,Kim,Sr.,Dentist,Male,White,1994-05-29,31,8847046634
+3ecf2f16-3104-43d6-85dc-bcecc2885293,Alexa,Z,Moran,MD,Neurologist,Other,Other,1953-04-11,72,6984619683
+5eebbfd0-a444-468b-85ae-b99606bc5777,Maria,H,Peck,PhD,Dentist,Female,Native American,1947-11-12,78,5383879733
+936a5949-4973-4de1-84e2-83ec424d481e,Hannah,P,Carter,Jr.,General Practitioner,Other,Hispanic or Latino,1974-02-22,51,9051455169
+9e91106e-b402-4b26-b24e-a4693b301db7,Brittany,S,Holloway,PhD,General Practitioner,Other,Other,1997-05-18,28,6002812311
+fce1a277-f99d-47cc-943c-c67de8c79854,Allison,Y,Lewis,Sr.,General Practitioner,Male,Asian,1955-04-19,70,5546606478
+f4d306fe-c3ea-47f9-9f7f-1794d213e64b,Stephen,I,Hunt,MD,General Practitioner,Male,Black or African American,1962-05-06,63,1964207879
+b178a726-3977-459f-98dc-ac636e4138e5,Amy,S,Dennis,PhD,Cardiologist,Other,White,1959-09-06,66,5677572928
+2646a1c9-a933-42a2-bcd8-ca3c606a526c,Gwendolyn,M,Juarez,Sr.,Pediatrician,Other,Other,1950-01-22,75,3044278164
+bcbb2c8d-ec67-4414-be28-b95ecc71b72d,Alexa,T,Chung,II,Pediatrician,Female,White,1979-11-14,46,9894202948
+3c18275b-8235-4996-ad93-069faac999aa,Sarah,T,Klein,None,Cardiologist,Male,White,1966-07-13,59,6462012716
+e59f7e99-393d-4b41-ba77-8074469f2739,William,E,Nunez,Jr.,Dentist,Other,Hispanic or Latino,1985-10-29,40,1947869014
+2b681c8b-8826-4f94-9d1f-f88c06bfeb50,Wendy,O,Pope,II,General Practitioner,Female,Asian,1992-08-20,33,7036980555
+8321b210-9300-4a23-9da0-4fe794f5a365,Whitney,Q,Church,II,Pediatrician,Other,Black or African American,1968-06-13,57,9636337650
+dce8697b-c42c-4a95-84aa-299f21c7fe54,Kenneth,U,Santiago,PhD,Pediatrician,Female,Black or African American,1952-09-09,73,6540277715
+017cb78b-3ee1-4a09-a60f-9c6c901ddee8,Adam,A,Bennett,None,Dentist,Other,Black or African American,1972-10-24,53,9426524973
+cac89626-37cc-4926-9804-495fce17a36e,Brian,G,Patton,PhD,Pediatrician,Female,Other,1999-06-15,26,2260610327
+4b3de676-40c5-49cf-afcc-5f4d5c33e83e,Roy,T,Moore,PhD,Cardiologist,Other,White,1962-03-28,63,2226290296
+aab03622-fad7-4d34-8141-3f7df6cef0bb,Samantha,H,Key,None,Pediatrician,Male,Black or African American,1973-12-24,52,4395881935
+c3e73462-72c3-40e1-bbbe-7cc66d8fccc6,Ethan,X,Sanders,Jr.,Pediatrician,Female,Black or African American,1945-12-24,80,3592485300
+802e918b-de82-46ef-8e98-c97539020ed1,Michelle,R,Price,MD,Cardiologist,Male,Other,1977-02-01,48,9808268148
+5a0acba1-d6ca-4ae9-9569-3d3202ee5689,Edward,G,Williams,III,General Practitioner,Male,Asian,1974-09-07,51,4578030512
+7fe54a7a-5bf4-43ea-a522-42640e1dff94,Breanna,E,Garrett,None,General Practitioner,Female,Black or African American,1949-12-24,76,3224757974
+9607ff69-09a7-4739-adfc-14854fbd9a53,Steven,B,Graham,II,Pediatrician,Male,Native American,1989-08-11,36,9832420724
+27f3b0c6-9bd7-4de9-8226-078498f98ae6,Jennifer,B,Thornton,MD,Neurologist,Other,White,1980-05-30,45,8431780768
+4d90fdc4-2070-44c4-801c-20b65c8f4aa7,Eric,B,Hernandez,Sr.,Pediatrician,Other,Native American,1950-03-21,75,2910241639
+0f216500-4de6-4b9b-ab21-d96b1be90cd1,Anne,S,Chan,III,Dentist,Female,Black or African American,1948-03-06,77,6645005241
+d76fa6ba-ada1-4a62-bb0a-9880a2d5e089,Kayla,Q,Olson,Sr.,Neurologist,Male,White,1970-02-06,55,5205007041
+c2858c52-c2bb-425b-a875-58137fc93688,Amy,F,Fisher,None,General Practitioner,Male,Other,1958-03-22,67,4479443810
+fdec3442-616c-4f9b-9371-13249ffc78d1,Maurice,N,Petersen,MD,Cardiologist,Other,Other,1952-02-19,73,8483845687
+dd43cf3d-339e-4b47-8f09-d642401aa2e9,Jane,P,Little,II,Neurologist,Other,Black or African American,1976-01-02,49,6010430406
+d11f0f83-aacd-45e7-bfc1-ec9f6cb81d56,Heather,D,Harrison,MD,Dentist,Male,Hispanic or Latino,1978-08-21,47,8165130883
+e8690109-9384-4225-b8f4-666c570a2884,William,V,Richardson,MD,Dentist,Female,White,1950-03-25,75,4708932007
+8cd85086-498b-4366-8704-5684f838b8cd,Edward,A,Torres,Sr.,Dentist,Female,Asian,1995-07-21,30,7843987226
+e183ebd4-9c8c-4f24-add8-92c4747013f6,Alejandro,I,Good,Jr.,Cardiologist,Other,Native American,1945-06-02,80,9236574007
+175ff31c-ce29-4851-8f14-fac007f9769a,Kenneth,M,Lewis,II,Neurologist,Other,Black or African American,1989-12-29,36,4559668275
+986c1140-afa7-4b73-b3a1-992efb9cf01d,Russell,Z,Martinez,MD,Neurologist,Female,Black or African American,1952-08-18,73,6467106909
+10380831-9fce-4d3e-a975-8a45010dc4d3,Tammy,Z,Morris,PhD,Pediatrician,Other,White,1953-11-07,72,5651942159
+edcb9a56-9bc6-43fc-bfba-7563030f1073,Colleen,T,Sloan,II,Neurologist,Other,Other,1950-07-14,75,1859342756
+91d78d66-7792-4c2e-ad35-73587741f4cf,Jeffrey,D,Jones,Sr.,Neurologist,Female,Asian,1965-10-04,60,8504592331
+40d223ff-fad6-4b65-b64f-65a91ac6bcfd,Valerie,Y,Haynes,II,Pediatrician,Female,Hispanic or Latino,1990-04-12,35,3744665675
+748ffc2c-b6f8-4038-91ab-cbad4cf314e2,Wayne,L,Dominguez,Jr.,Cardiologist,Male,White,1958-09-14,67,1934508303
+cda482c8-dae4-46b7-9e22-4aaefcefeebf,Kimberly,R,Barton,Sr.,General Practitioner,Other,Native American,1963-06-14,62,2901808963
+352ddec9-135c-4cfb-bae1-dab860897ac7,Madeline,E,Phillips,MD,Pediatrician,Other,Asian,1944-12-14,81,9839518034
+e0368a89-2d37-42db-97df-c70100f37dfd,Victoria,U,Hall,Sr.,Pediatrician,Female,White,1955-10-17,70,6954615498
+9a7f4524-5c4a-4f02-9131-ddb0783dfd85,Leslie,W,Sanders,Sr.,Neurologist,Female,Black or African American,1961-05-15,64,5596953813
+3c018a57-a4e5-427f-8009-983368f31497,Jorge,S,Mccann,III,Pediatrician,Female,Asian,1946-06-17,79,3966528154
+087042d8-7c33-440d-86c4-c8e8665d5b90,Douglas,G,West,II,Dentist,Female,Asian,1955-07-28,70,6767071888
+2dc9bb93-2456-49ee-84c6-557662862edd,Brenda,R,Wilson,Jr.,Neurologist,Other,Other,1983-07-10,42,7359397116
+9a15e31a-5a37-48d8-9f1a-facd8142387a,Ronald,O,Underwood,MD,Pediatrician,Male,Other,1988-07-13,37,1469744449
+8a826238-5f1a-42d8-a00a-844753da28dc,Sharon,B,Cook,III,Pediatrician,Male,Hispanic or Latino,1945-08-04,80,5235237185
+caf09792-29dc-4350-b884-270b83ff5300,Brett,U,Johnson,PhD,Pediatrician,Male,Other,1950-09-07,75,1650110689
+a458d9ac-d3a5-459a-849e-bda8c43fa947,Tamara,V,Hill,None,Pediatrician,Female,White,1987-01-09,38,1402674138
+33997304-24a9-49fb-909a-1ed2e1e1daa7,Richard,B,Brown,PhD,Neurologist,Female,Asian,1978-10-31,47,5773911577
+f18b77da-b644-4109-a0b3-70b2ed3306e5,Christina,H,Spence,II,Neurologist,Male,Hispanic or Latino,1984-01-15,41,3506349919
+57d75a56-235c-4b97-b7cf-cbf5438a4607,James,G,Parker,PhD,Pediatrician,Female,Black or African American,1973-12-09,52,9779127174
+63ba7f6c-c9e8-44dd-8434-824733bea064,Ray,A,Taylor,MD,Dentist,Male,Native American,1999-03-31,26,6243014218
+b1d335b5-2e16-4abe-9bba-b9dfa6663676,Ryan,R,Wilson,II,Pediatrician,Male,Hispanic or Latino,1963-06-20,62,8336921919
+b00012aa-3f7d-4447-9404-a3675b7948ae,Carolyn,S,Kennedy,III,Cardiologist,Female,Asian,1947-07-01,78,2918198874
+8c749c2c-676c-4d0c-9228-7fd0355c7379,Jonathan,U,Martin,III,Dentist,Other,White,1967-04-14,58,5078418550
+60e4429d-6381-4c1e-b855-b91af97a10b9,Stacey,D,Christian,Jr.,General Practitioner,Female,Black or African American,1953-09-02,72,3977232989
+3264ba94-50cb-4773-8722-cf92e3f1a3b2,Robert,H,Shaw,PhD,Neurologist,Other,Hispanic or Latino,1961-03-23,64,8755872728
+bdccaf20-4d62-48db-8419-66b8bf22c700,Kathryn,V,Jackson,MD,Pediatrician,Male,White,1981-06-27,44,3719378728
+0b6ee206-57f6-4e36-92a5-ed1124da0f65,Patrick,A,Brown,PhD,Neurologist,Other,White,1954-07-31,71,9372408905
+f70f6b74-453f-4dac-92a7-194c1aabe7cc,Christopher,E,Manning,None,Cardiologist,Male,Other,1968-07-10,57,2650502727
+4cb8d60c-c2bc-4aef-851b-0c034eeae08b,April,Q,Jackson,Jr.,General Practitioner,Female,Black or African American,1989-02-25,36,2928443652
+23082e45-a3f0-424d-a811-b6329217940b,Thomas,Z,Williams,MD,Pediatrician,Other,Other,1969-06-02,56,1454167651
+b70481f6-56c1-414a-a160-ad729554065c,Garrett,W,Beck,PhD,Pediatrician,Other,Asian,1953-01-14,72,5177369949
+c921d6de-818d-4574-aee2-719c65eb1143,Thomas,L,Garcia,Jr.,Neurologist,Female,Other,1985-11-16,40,4951317377
+0bc05831-1936-4825-89ff-74c8792d6c1a,Laura,O,Keller,None,Dentist,Male,Black or African American,1954-12-19,71,7280238295
+8ea6ec22-2cab-42b5-b05d-605b6cd8dd2c,Joshua,Y,Lopez,MD,Pediatrician,Other,Other,1956-08-16,69,9436902445
+c66e2044-b7f3-40bb-b676-a75de1641dff,Elizabeth,T,Burke,III,Neurologist,Female,Hispanic or Latino,1982-12-15,43,3868132283
+5c097ac1-a84f-4079-a310-5fbf3ee59b0f,Brandon,B,Banks,None,Pediatrician,Female,Other,1997-11-07,28,4575389098
+4e55eee6-097b-4f51-84e5-f0dcd617aad7,Mark,U,Hampton,Jr.,Cardiologist,Female,Hispanic or Latino,1986-05-13,39,3608986109
+0fef2b86-cefd-4df2-b8c4-84a5887e0881,Dana,R,Wright,III,General Practitioner,Male,White,1968-09-03,57,7514132332
+bd29318e-7391-401a-bdae-04251fd6a5b1,Brandon,V,Rogers,III,Cardiologist,Male,Other,1962-02-03,63,3882228374
+5f94c1c3-4a42-4aa7-b725-985f00040160,Timothy,I,Davis,II,Pediatrician,Other,Hispanic or Latino,1980-12-16,45,2550347540
+70c7ac23-48bb-45ea-81e8-fafbe6f2629a,Valerie,K,Morgan,II,Neurologist,Female,Hispanic or Latino,1993-09-04,32,8775071750
+51064cb7-12db-4b01-a1b8-808b4a64e381,Alex,F,Hamilton,PhD,Dentist,Male,Asian,1951-02-05,74,6350754590
+184f0c0b-2907-4787-9d6c-a472dbe2ce36,Anthony,A,Farrell,Sr.,General Practitioner,Female,Hispanic or Latino,1966-12-20,59,8490232750
+6248681c-b8b9-4afe-9a95-59e6a24b59a5,Curtis,L,Wright,None,Cardiologist,Female,Black or African American,1972-01-12,53,3791217682
+bf5cb0a1-64a0-4c81-b924-56163028aaec,Janet,R,Hayden,Sr.,Dentist,Female,Asian,1954-10-12,71,9516201849
+e438cf21-f442-4c1e-b8ba-c1a6348fe1cf,Cassandra,A,Banks,II,Neurologist,Male,Other,1973-05-19,52,1903458719
+b6e7552f-064c-4cef-ae14-01d97bd79f12,Michelle,A,Garza,MD,General Practitioner,Female,Other,1968-11-16,57,2857389228
+61342f48-75cc-4cfb-942a-08cc25e80cb6,Brandon,R,Griffin,III,General Practitioner,Female,Asian,1955-08-07,70,1504634870
+fa12cefd-84ec-40b3-b4e5-93593d639134,Lynn,Z,Russo,II,General Practitioner,Female,Other,1978-04-20,47,5012218443
+c8549884-cf54-45cf-b72e-bf6ab46f9bbe,Brenda,F,Sanders,PhD,General Practitioner,Other,Black or African American,1955-04-01,70,3971347835
+0721fe0e-572f-495d-82c3-9e37ecc9cdd8,David,Q,Anderson,None,Neurologist,Male,Hispanic or Latino,1946-08-05,79,5710845714
+46f45fa9-c486-4fe2-b7a6-24108caca7e5,Leah,W,Miller,III,Dentist,Other,Black or African American,1954-02-18,71,6589023165
+00d71d8d-8757-495d-85ff-8ab72bba5953,Nicole,I,Ward,Sr.,Dentist,Other,White,1987-11-10,38,9198348997
+217c6d2b-4fe2-4a83-af04-9c338a00a4ca,Lisa,U,Patrick,III,Pediatrician,Other,Hispanic or Latino,1983-04-16,42,4099938861
+b06449f1-8f90-4399-a4cc-fe7281670fc9,Shane,L,Davidson,PhD,Cardiologist,Female,White,1950-12-06,75,2104889825
+06c091af-e582-4cab-b17e-7a7ff04ac084,Edward,B,Martin,PhD,Neurologist,Male,Black or African American,1954-02-27,71,5328680474
+71146822-03d3-4d2e-b1ea-1dd3e9c789f4,Lisa,V,Olson,Jr.,Pediatrician,Male,Black or African American,1961-12-19,64,3129652138
+a463223a-3241-43bb-b0bb-eb9984cf8a49,Brianna,C,Lewis,II,Cardiologist,Male,Black or African American,1981-03-04,44,4053409922
+cb36304c-0cc8-452a-8660-2a228685e650,John,A,Anderson,MD,Dentist,Male,Other,1963-02-05,62,9393448317
+c47a50c1-45cc-4a37-813a-b415157b1cbd,Nicole,B,Smith,PhD,General Practitioner,Female,Other,1968-08-01,57,6603290103
+adc30352-ed41-43f2-a452-399574caa882,Mark,F,Caldwell,MD,Dentist,Female,Other,1995-11-18,30,3469562608
+80744507-7a92-468c-af7b-bb7397134624,Melissa,J,Smith,III,Cardiologist,Male,Native American,1958-07-08,67,1393993016
+e5740c33-e5e8-461d-bf98-87723fb48c01,Brittany,T,Mason,Sr.,Cardiologist,Female,White,1984-01-19,41,3227284497
+ea2df662-c19d-4376-b26c-558712447c3e,Eric,H,Warren,PhD,General Practitioner,Male,White,1981-10-26,44,1656005547
+b1e59ffa-04c5-44c5-862a-0423da73e0eb,Sara,G,Duran,Sr.,Pediatrician,Female,Native American,1952-04-27,73,5835935123
+d33991b5-670d-4fc9-aa44-093fbb5ead20,Brittany,S,Fisher,None,General Practitioner,Other,White,1948-06-07,77,4587953476
+b089ea8d-ba5c-4a68-b7d0-9a46bb48ac06,Lisa,O,Scott,MD,Pediatrician,Other,White,1980-09-16,45,7890944616
+943fc1fd-2be6-40f5-bb2b-74f57bba3e88,Scott,C,Duran,PhD,General Practitioner,Male,Hispanic or Latino,1997-02-22,28,5771914991
+2a80efd1-4df4-45a7-8d9c-5e088bbbff66,Thomas,U,Murphy,II,Neurologist,Male,Hispanic or Latino,1992-03-14,33,6754153837
+0881988d-d208-4fed-bcb2-40860f583a4d,Christine,P,Barber,Jr.,Dentist,Other,White,1984-04-08,41,1272245308
+99dbc2af-0953-445b-9ea1-e6e5631890e0,Diane,B,Palmer,III,Dentist,Other,Other,1978-01-09,47,2697038566
+cae33f96-d781-48f0-a96a-ac1d74ae089f,Lee,I,Carrillo,Sr.,Dentist,Female,White,1995-09-15,30,7748861420
+ab71b0fd-3084-4782-ad37-f7bce9275605,Brian,M,Robinson,PhD,Cardiologist,Male,Asian,1965-08-12,60,5667026886
+e6e958db-92cf-4807-83fa-95317651b117,Patrick,W,Nielsen,II,General Practitioner,Male,Other,1944-12-23,81,9177219466
+a33905b2-7a39-4030-8248-6ec8c2f8fdec,Deborah,P,Snyder,Jr.,Neurologist,Male,Other,1999-03-09,26,8884145615
+ccda887b-420a-414e-85ec-fb1b0e6590be,Jacqueline,L,Maldonado,MD,Neurologist,Other,Black or African American,1985-04-13,40,2822621692
+3cbc8d69-20c9-4ecf-9e97-1b2ec3b9fd77,Erica,Q,Garrison,III,Dentist,Male,Black or African American,1977-06-21,48,4247898039
+89a08fa7-432c-4195-b6c5-9aab113690e2,Kathy,Y,Lawson,None,Dentist,Male,Black or African American,1951-04-22,74,3234263495
+b9535c53-f20e-4ea8-b561-9ea23fb88046,Robert,B,Coffey,Jr.,Neurologist,Male,White,1983-06-10,42,3993385552
+a8f479d7-96a5-4f2b-adba-db5acf15fca6,Anthony,K,Freeman,MD,Pediatrician,Female,Hispanic or Latino,1960-12-16,65,5235529916
+386b7454-2fcf-4999-9cbf-180d24b27962,Charles,X,Edwards,II,Cardiologist,Male,Black or African American,1987-07-14,38,5726838980
+714047c5-da38-48ea-bc8d-520717f6a9d8,Donna,G,Reyes,None,Cardiologist,Other,White,1974-06-15,51,3395221240
+19c50246-644a-4e38-9a35-59a0fec701e8,Toni,K,Le,Jr.,Pediatrician,Female,Black or African American,1950-03-04,75,3014583284
+890f8447-a9d7-4ed8-9238-c20123df70c6,Lance,R,Chen,None,General Practitioner,Other,Asian,1977-12-08,48,5283283696
+f64ec4bf-f26e-4fd1-9642-92185e6e34ac,Michelle,P,Welch,Jr.,Pediatrician,Other,Other,1988-03-18,37,6217905219
+deecd384-955a-4f8d-87ed-d274b47f56b0,Walter,X,White,II,General Practitioner,Female,Other,1991-08-24,34,1533018841
+fc2913a3-65ee-428d-ba0b-95edd30b1270,Debbie,Y,Sanders,MD,General Practitioner,Other,Native American,1948-10-05,77,2401521522
+65632024-40de-4bed-9738-92f0dea775d8,Cameron,W,Howell,Jr.,Neurologist,Male,Other,1982-06-16,43,4851881958
+36b7d5bf-cf40-43e5-8ebd-591998a77976,Daniel,X,Mcdonald,Jr.,Pediatrician,Male,Black or African American,1951-09-24,74,5373795872
+edb9d9dd-0d8d-4f9c-8bf3-72814b69da8c,Peter,Y,Grant,Sr.,Neurologist,Other,Asian,1966-06-12,59,9087460258
+3bc0d79d-14d6-4d70-ab40-50e78a6bcd8c,Tonya,J,Golden,Sr.,Neurologist,Female,Asian,1962-03-15,63,8254937568
+e1fb55fd-a8e6-470b-a09b-bb9ba0bde429,Christopher,S,Stewart,None,Neurologist,Other,Asian,1954-11-07,71,1108577167
+9cb08952-d7c5-4d7c-a058-c4201ea32673,John,S,Rivera,PhD,Neurologist,Female,Other,1994-10-09,31,4449114934
+c294a03a-7e34-4013-84f6-8c42aabca00d,Matthew,J,Ramos,Sr.,Cardiologist,Male,Hispanic or Latino,1964-06-26,61,6208818563
+9f2456aa-d1b1-45c6-b9d7-4b201b625938,Stacy,X,Woodward,MD,General Practitioner,Male,Other,1951-10-27,74,3357592082
+4aab3ccf-0411-4bde-8880-793f96b2df35,Melissa,I,Mcgee,II,Dentist,Male,Asian,1970-08-20,55,4525863813
+ff72ced9-f438-4d60-b158-7f5bd58ce66f,John,N,Schultz,III,Dentist,Other,White,1988-05-04,37,5641395729
+04118b73-49ee-4f90-9b85-75545c4f27e2,Edward,A,George,Jr.,Cardiologist,Other,Hispanic or Latino,1947-07-08,78,2197185766
+b94d9b80-249b-4c15-aced-5a9b4407dec7,John,Y,Jones,Sr.,Pediatrician,Male,Asian,1950-09-27,75,4144896184
+bd572760-5aac-451c-91cb-91ac01fe1ae1,Tricia,L,Orozco,Jr.,Dentist,Male,Black or African American,1991-08-13,34,5384936687
+70d03277-bbaf-49d2-bbe2-45a2431349cf,Amber,R,Robinson,Sr.,Cardiologist,Male,Hispanic or Latino,1994-12-11,31,5479508638
+c2a261fb-a4d7-47fc-bcb4-55b8ff2436c9,Brett,Q,Morrison,MD,Neurologist,Male,Asian,1997-04-23,28,4606440112
+d5d19f16-5ebf-4da3-9b9f-2c8fb5b02c10,Amanda,G,Calhoun,MD,Dentist,Other,Native American,1974-10-19,51,3474478272
+f1262095-5d25-4cdf-a969-960ce064a1c9,James,K,Smith,Jr.,Cardiologist,Male,Hispanic or Latino,1992-06-08,33,9634293534
+92a95434-ceac-485d-b3d2-5fc520f498b9,Derek,C,Johnson,None,General Practitioner,Female,White,1952-05-05,73,3095477397
+b6b8d2ca-ffb3-46a2-b919-5174b0ac89b8,Rebecca,K,Erickson,II,Pediatrician,Other,Hispanic or Latino,1973-03-30,52,5475706498
+98b5d642-15d3-42a1-bbd5-925ab812ad92,Anita,Y,Gonzalez,PhD,General Practitioner,Female,Hispanic or Latino,1967-04-18,58,8445028885
+88b8900c-79aa-428c-81da-ca8a5a25fdfa,Laura,W,Gilbert,Sr.,General Practitioner,Other,Asian,1984-02-16,41,4604592049
+9c2f6269-dbca-49ff-adf1-57ff4093ec1d,Danielle,Y,Mcdonald,Sr.,General Practitioner,Other,Native American,1981-12-11,44,9148174482
+b7eb595c-942e-49d2-a25f-9703094c8181,Karen,R,Tate,II,General Practitioner,Female,Black or African American,1982-02-14,43,4663371499
+790ebcf2-2e2c-4eb4-9666-1274fe7a746e,Christopher,Q,Wood,MD,Neurologist,Female,Black or African American,1973-02-08,52,1669267573
+34823d6c-e0c4-4219-b2ba-8e0a75a22f15,Colleen,A,Morse,III,Neurologist,Other,Hispanic or Latino,2000-05-06,25,6406624771
+1233004b-a0ac-4c13-b0cb-abfb1388869c,Timothy,H,Best,None,General Practitioner,Other,Other,1985-08-26,40,8623667842
+7b2fa288-3a54-4572-bc04-04898fa913f2,Mary,J,Grant,PhD,General Practitioner,Female,Native American,1961-01-23,64,6001401184
+f1e958c5-3ac8-4c34-bf2c-ce360989b591,John,D,Scott,Jr.,Pediatrician,Other,Asian,1993-03-23,32,1084800728
+13ff5876-527c-4f20-b640-ad20c0a42f8d,Neil,S,Oliver,II,Cardiologist,Other,White,1962-05-24,63,5425281803
+19cc0a44-7f20-4b8d-a4fa-91a532c79c65,Shari,B,Paul,III,Dentist,Female,Black or African American,1957-04-18,68,5636707540
+8d87ea88-1f51-4341-94c6-88cd66baca12,Henry,A,Pierce,PhD,Neurologist,Male,Other,1998-10-26,27,5356623025
+a887ce83-f079-4ed9-bad3-c95f41e9c0c4,Annette,P,Murphy,Jr.,General Practitioner,Male,Other,1971-08-13,54,3220072788
+3c66e6fa-4577-46ef-af9b-b2e558b8dd75,Susan,I,Johnston,Jr.,General Practitioner,Male,Native American,1962-07-22,63,1499527835
+1b597948-7a36-410f-b6de-f11cce119664,Charles,H,Humphrey,Jr.,Cardiologist,Male,Black or African American,1983-08-15,42,5379206839
+5f70d424-5d26-4acc-b259-6d38592a99cb,Cory,Q,Robertson,Jr.,General Practitioner,Male,Native American,1977-03-18,48,5368999625
+28be4c2c-06ef-4875-bdc4-e5308f039833,Rick,O,Hobbs,II,Neurologist,Female,Hispanic or Latino,1946-06-23,79,7848811200
+bc8f09c4-a3f5-4ebb-8355-a8055f01770f,Kevin,J,Miller,PhD,General Practitioner,Female,Black or African American,1967-03-23,58,3846131717
+57365a31-a636-43b2-b0b3-ddefe1a2393a,Sheila,X,Long,MD,Neurologist,Male,Asian,1986-10-08,39,3933894445
+9d573e44-313e-43b8-a37b-ba36336d5b2d,Christina,X,Macdonald,PhD,General Practitioner,Female,Asian,1968-01-29,57,7394217554
+f78c6b07-c470-4218-ba78-74e629c9ab21,Greg,Z,Galloway,II,Pediatrician,Male,Hispanic or Latino,1957-05-24,68,6361062799
+cdd15d0a-a21e-43a7-ac46-13805c4ec4da,Laura,Z,Kelly,III,Pediatrician,Other,Native American,1993-01-19,32,9771817405
+81548d81-6c06-4715-869a-bda147089f09,Nancy,F,Walker,II,Neurologist,Male,Hispanic or Latino,1957-09-13,68,2870729300
+b2c14081-2c4f-40eb-a17e-427c161b02b1,Edward,X,Garrison,PhD,Cardiologist,Female,Hispanic or Latino,1988-02-18,37,9507287073
+36f2f3dd-a416-47bc-9fee-d09989a52dac,Rhonda,Q,Bass,None,Cardiologist,Other,Black or African American,1958-10-28,67,8514379666
+f13140d2-6adb-4e91-bf78-961631485f09,Debra,E,Garrett,PhD,Pediatrician,Male,White,1955-08-12,70,2926761875
+d237c515-f6c8-41ef-b9da-8f3ff50cdab3,Jeff,P,Brown,PhD,Neurologist,Female,Other,1970-09-08,55,5885769487
+63d964a8-162b-45ce-905d-a77e0dcab28f,Tiffany,L,Davis,Sr.,Dentist,Other,White,1993-09-05,32,2487153284
+92748e58-600d-42ea-befe-2c7812d62997,Kellie,T,Davis,Jr.,Pediatrician,Female,White,1945-10-22,80,4958319972
+1fbd93a0-3700-4463-9a3f-3ba33bfa93c0,Debra,E,Walsh,III,Pediatrician,Female,Asian,1957-06-29,68,6535990535
+0d5a4805-a8ef-4f8a-bf0c-6c9d5ea33509,Morgan,S,Spears,MD,Neurologist,Female,Other,2000-01-12,25,7088537399
+434dd665-d9df-478e-b717-6caf0e60b5ab,Brian,O,Robinson,II,Neurologist,Female,Hispanic or Latino,1956-05-07,69,2355239078
+dcab8b6b-6c17-4033-ba3a-8465e059f71e,Frederick,T,Hill,Sr.,Dentist,Female,Other,1998-02-24,27,9276451212
+b680df13-ea46-477f-92e1-61714cb2f5f3,Mark,I,Nelson,Jr.,Neurologist,Other,Black or African American,1990-06-09,35,9276377196
+d2138323-7307-4338-abc4-a72174bbd205,John,W,Montoya,PhD,Pediatrician,Female,Asian,1948-01-31,77,2869640587
+ceacaf84-7783-48e0-9dd3-daba5a6960ca,Angela,Y,Dawson,II,Pediatrician,Male,Asian,1993-11-25,32,9624916619
+b5652f60-b235-4538-a92f-aaee3f8a7b73,Dawn,Z,Mills,Jr.,Cardiologist,Other,Other,1974-02-18,51,2642909979
+81d0ab9d-b198-40a8-8a67-514fd636691b,Donna,A,Stone,MD,Neurologist,Female,Asian,1980-03-21,45,8869393662
+bbe35d31-4056-493a-b62a-bdc3351ec736,James,W,Fitzgerald,III,Cardiologist,Other,Asian,1961-11-08,64,7486744409
+91acb36c-75c9-49e0-a114-d3325f6e745e,Christian,U,Wall,Sr.,General Practitioner,Male,Black or African American,1984-09-21,41,5791585787
+715c11af-6f61-48d9-b142-3d02af60c3e0,Michael,D,Stewart,III,Dentist,Male,Black or African American,1991-08-02,34,4296935394
+2e5fb0b4-48a1-4fb6-b8cc-c212e2c84cb2,Steven,A,Weaver,PhD,Pediatrician,Other,White,1990-01-28,35,3291361498
+5a13ca05-be21-4e8e-9d8f-6c561c090dea,Samantha,T,Vang,PhD,Neurologist,Other,Hispanic or Latino,1994-10-31,31,8287626833
+ed8ce28f-c4f8-4b21-b0c6-f6ae5d330208,Brian,L,Stewart,None,Dentist,Male,Asian,1979-04-03,46,6565800796
+b88ffffc-4f90-4e3e-a27e-0b85286f0cac,Ashley,D,Norris,II,Dentist,Male,Black or African American,1999-03-14,26,4693872435
+792bed72-bed1-4a3f-a5db-e263468cd54c,Jeffrey,B,Erickson,III,General Practitioner,Other,Black or African American,1984-01-18,41,4369577236
+b7e27606-dc5b-4f99-aaae-267205b3889c,Sarah,U,Scott,MD,Cardiologist,Female,White,1981-08-13,44,4989561358
+7f475534-8c72-4c8f-996b-4b38604864ec,Jimmy,L,Garcia,III,General Practitioner,Male,Other,1999-11-12,26,8421920285
+8bc99890-6487-45f4-a1a5-ff522c62a13d,Russell,B,Nichols,None,General Practitioner,Female,Native American,1957-03-28,68,6862697628
+97270cfb-ace5-4d98-9681-53f2d8540ff5,Daniel,V,Reyes,MD,Neurologist,Female,Hispanic or Latino,1953-04-01,72,5149347276
+564b436f-5e1b-4f98-a47e-cb223df4367d,Luis,A,King,None,Dentist,Other,Hispanic or Latino,1954-03-24,71,7549817788
+1677cae3-1c07-4c1c-8d68-8592f9bf22fd,Kerry,X,Bullock,MD,Cardiologist,Female,White,1970-08-31,55,9290146891
+0952acb8-67c2-469a-b8b8-4ed9dcb22289,Nicolas,E,Wood,II,General Practitioner,Female,White,1992-04-27,33,3227526475
+59fbd2b6-6925-4581-bf1e-60e9df8a1c08,Aaron,Z,Williams,PhD,General Practitioner,Female,Other,1961-02-18,64,3051439586
+0cddb95c-08b5-4675-9e59-ec7b50a7ab92,Danielle,J,Anderson,Jr.,Dentist,Other,White,1985-10-09,40,8891481691
+8febf243-a86b-4171-95a3-a52ef9d65aa6,John,I,Christensen,II,Neurologist,Female,Native American,1979-05-08,46,4023049186
+42c56c3a-bbb0-42c1-83bd-7e1cb468105d,Robert,G,Simmons,PhD,General Practitioner,Male,Hispanic or Latino,1971-09-20,54,2294112596
+e74db8e4-4e07-48da-a29f-fcdf3e305b78,Ashley,M,Kelley,None,Neurologist,Male,White,1983-04-10,42,4009451204
+3297af63-aa4a-4449-ac9d-72d2566cda86,Joy,C,Jones,MD,Cardiologist,Male,Native American,1945-04-09,80,5933521002
+c03eef97-967c-4cf1-9f99-46b893b15abe,Austin,L,Stone,MD,General Practitioner,Other,Hispanic or Latino,1962-12-25,63,6509190143
+d7a847cc-abdf-4579-babf-5c27c574c80a,Erica,A,Lopez,Jr.,Cardiologist,Other,Asian,1994-07-01,31,8850654223
+572b0edd-dd28-4d9a-b7b0-34b85538bb6e,Christopher,B,Garcia,MD,General Practitioner,Other,Asian,1945-02-16,80,4473589627
+946b48e5-e930-423f-a392-a0b7df324d15,Joseph,A,Mcdonald,II,Dentist,Male,Hispanic or Latino,1977-10-01,48,2529915189
+8132d77a-4d43-4451-be4d-f5269ed41250,Richard,J,Ross,None,Neurologist,Male,Hispanic or Latino,1962-08-18,63,3492157834
+698be342-9bc1-4903-965b-ab22ee47e9ab,Lisa,P,Huang,III,Neurologist,Male,Hispanic or Latino,1974-08-02,51,3488654158
+b4fab4e3-bb27-4edb-952c-ee7f5b8518bf,Robin,K,Barrett,Jr.,Neurologist,Male,Hispanic or Latino,1958-02-10,67,1399309443
+76c96fad-f1bf-43c4-8fec-4c4799a91970,Diamond,Z,Baker,None,Pediatrician,Male,Asian,1978-12-08,47,3553648379
+51a292ab-dee6-40fc-b776-15c5228ea05a,Clifford,P,Wilson,MD,Dentist,Male,Other,1983-04-13,42,6667003787
+e993034b-b834-4423-8c50-8564d02713f6,Christopher,W,Lopez,Jr.,Dentist,Female,Hispanic or Latino,1945-08-13,80,2224368350
+0ebd85e6-b87f-42fd-bd75-405d520360e4,Natalie,E,Mclaughlin,Sr.,Neurologist,Female,Asian,1990-02-04,35,4644943165
+6db68162-5d47-472c-b7c6-4f220cadbd34,James,E,White,MD,Dentist,Female,Native American,1989-05-16,36,1454456530
+9ca355a9-2b7e-494f-a2ca-de51abb909ad,Dennis,G,Nicholson,MD,Dentist,Other,Native American,1963-11-24,62,7412645331
+66d43ce6-a9a6-4fcc-b0f4-8ef1f3b52d8f,Tina,B,Adams,None,Neurologist,Male,White,1947-03-30,78,8235566282
+53dd895d-c6aa-4d5e-be4e-87f582914864,Brent,R,Singh,III,Pediatrician,Other,Hispanic or Latino,1972-06-17,53,9569227497
+417c61ce-210b-41fe-9e41-3b2dce8c2b9b,Donna,N,Campbell,MD,Neurologist,Male,Black or African American,1960-10-07,65,5888054911
+313d5b57-683f-48fa-9b77-9b0b9a735178,Jared,C,Ho,PhD,Cardiologist,Other,Hispanic or Latino,1969-11-11,56,4278824326
+bed4d61e-9721-472f-8eb0-d7f0e815897b,Marcus,I,Wilkins,Jr.,Dentist,Other,Black or African American,1998-07-26,27,5133157297
+2fab0389-17e5-44a3-ab0b-f8a6ee30d6c9,Heather,Q,Jacobs,Sr.,Dentist,Female,Other,1945-03-12,80,3038655434
+52a27443-eaac-4823-ac8f-4b628a07057f,Rebecca,B,Huang,PhD,Cardiologist,Other,Native American,1977-08-21,48,3210933748
+d8d8faaa-fccf-40a0-a22e-ed8696b2aea1,Cody,O,Cain,MD,General Practitioner,Female,Hispanic or Latino,1965-11-01,60,9622284240
+c8f30248-a6f9-4802-9a17-8d7d54c964e0,Thomas,H,Mitchell,II,Neurologist,Male,Hispanic or Latino,1961-12-02,64,1034574095
+1b19ecd8-9a22-4252-8a90-fc70bfc1eb8a,James,M,Reed,III,General Practitioner,Other,Black or African American,1967-11-04,58,5006843466
+0028c98d-3253-430c-b47c-450afbb4ae76,Samantha,G,Turner,II,Neurologist,Other,Other,1975-11-06,50,5361990561
+47752f3a-ad59-4eea-8a85-6c6d1c2a93fd,Howard,I,Santiago,PhD,Dentist,Female,Black or African American,1978-11-19,47,8503923495
+f84aefe4-3df0-4ca3-b220-1138920f73fc,Kimberly,X,Noble,II,Neurologist,Female,Asian,1961-09-13,64,6404088225
+3fdff3f7-60a9-4080-aad5-deb340d60385,Andrew,C,Stanley,II,Cardiologist,Other,Other,1958-12-03,67,6625892154
+6a1f7d59-cf0c-4745-b516-733716cbe053,Sheila,Z,Howard,III,Dentist,Female,Native American,1982-07-17,43,7670366207
+6ac7f42b-92b5-4c98-89e8-6a9c958cbd19,Jennifer,Z,Torres,III,Neurologist,Female,Other,1997-08-23,28,9106903128
+3c3c8727-bfe7-4b52-bb98-56981eeda45f,Jodi,E,Anderson,MD,Pediatrician,Other,White,1979-09-25,46,8215684810
+24663e9a-d8bf-471a-a765-f5a722984e7d,John,D,Velasquez,Sr.,Neurologist,Other,Hispanic or Latino,1959-05-22,66,6076457649
+49557087-1539-49b2-80b4-5ba357c67721,Natalie,J,Durham,None,Pediatrician,Male,Black or African American,1957-06-22,68,7921689755
+b323d4ec-d387-48f0-bc53-132c1bf77510,Mary,V,Yoder,MD,Neurologist,Female,Black or African American,1995-08-01,30,5615933191
+ebffe929-54ba-49d8-a0da-ea1767db8d6e,Lisa,D,Miller,Jr.,Pediatrician,Other,Other,1994-12-15,31,5372471862
+1d9c1e1c-f458-4f34-b7ac-028d0cc71a61,Tiffany,A,Brewer,Sr.,Dentist,Female,White,1954-03-01,71,9298222045
+60c043e6-0177-4b99-84f8-760e2356b043,Curtis,I,Gibbs,II,General Practitioner,Female,Asian,1966-07-15,59,4714006502
+d5c7165e-e8a2-449b-ac1b-fe033743f914,Brian,B,Rhodes,II,Dentist,Other,Native American,1962-05-08,63,2824111222
+3933f1d7-c8d2-4755-ba05-6fa0bace31d0,Matthew,N,Gross,None,Neurologist,Other,Hispanic or Latino,1963-12-28,62,1333511406
+13698d0b-d804-4f9c-b734-6e615da9586b,Jennifer,J,Silva,MD,Neurologist,Male,Native American,1993-12-22,32,1589648965
+5fa53d42-111f-4370-a465-737117f3647f,Peter,I,Blake,None,Neurologist,Other,White,1957-01-18,68,2477756163
+f2a79a0b-64be-4cba-b60c-3e98de97cef7,Christopher,Y,Anderson,Sr.,Neurologist,Other,Native American,1978-08-17,47,4566811505
+bdca8018-f65d-4c81-b01e-126a21fdc864,Dennis,U,Clark,MD,Cardiologist,Male,Hispanic or Latino,1975-07-26,50,7387124483
+31d60fa4-24be-4f5c-b8f0-18f796f8ffda,Denise,U,Zavala,III,Pediatrician,Other,Asian,1969-08-29,56,7982435686
+1ce747cd-591c-4496-a04b-977aa196dd38,Kaitlin,C,Hernandez,None,Neurologist,Female,Native American,1989-06-14,36,6410139831
+0515ab3c-ea8f-4cab-8b42-3750e3ead322,Steven,T,Mcgee,II,General Practitioner,Female,Asian,1987-08-22,38,4508098021
+413f9b61-bb28-48d4-811b-c77ce40d8465,Gary,J,Gonzalez,None,Pediatrician,Female,Black or African American,1995-06-19,30,9133158812
+959f983f-a72b-49f3-9734-5c626423e70a,Hannah,O,Wagner,Jr.,Neurologist,Other,Asian,1994-01-02,31,8093001778
+92d41757-e146-4181-863a-2dfe67838ff6,Alexander,F,Nguyen,None,Dentist,Female,White,1998-12-07,27,7776645416
+2eb02b6c-58a5-4d3c-89d9-ff9f41053eb5,Jacqueline,V,Mclean,II,Dentist,Female,Black or African American,1974-07-04,51,3775119049
+27ae536b-9104-4590-9c8b-c11b2aa7a66f,Jessica,Z,Sparks,III,Cardiologist,Female,Asian,1949-09-20,76,3353469152
+b870cdff-971f-41d4-a459-c2cf56c8f5af,John,A,Hines,PhD,General Practitioner,Other,Asian,1948-08-11,77,2643026187
+0b680bb0-28ab-4904-a964-efded2a822b0,Jay,C,Martin,None,Dentist,Female,Asian,1951-06-21,74,8406255091
+c9dd4b2a-0942-459b-bba8-11842571b16c,Amanda,E,Morris,Sr.,Cardiologist,Male,Asian,1966-11-11,59,6571118231
+0eef54c2-802d-4c80-a5ca-1af133549693,Melanie,P,Quinn,Sr.,General Practitioner,Other,Black or African American,1969-05-01,56,7147281444
+c8f34333-c60f-483c-ac35-d3857358fe5f,Alexandria,V,Irwin,None,Pediatrician,Male,White,1949-11-23,76,4989782000
+e71a562e-6d4a-41a4-b475-32f2a07a5f11,Vincent,I,Cunningham,II,Neurologist,Other,Hispanic or Latino,1947-06-22,78,9279527247
+7f9ec7cd-50bf-4883-95a7-15ae5800cb21,Meredith,F,Becker,Jr.,Pediatrician,Other,Other,1969-10-21,56,8741691022
+754338d7-354a-4796-a731-f613b278287c,Cynthia,L,Miller,PhD,Cardiologist,Other,Asian,1956-04-17,69,2591298746
+b4af3aa3-baa7-475a-8ee1-9c1cdd719be9,Matthew,M,Hernandez,MD,Neurologist,Male,White,1949-04-01,76,7959230920
+2f00f39a-6b2a-4899-8ed5-5c9d3aba8f75,Jessica,J,Copeland,III,Neurologist,Other,Other,1989-09-01,36,7901960956
+e01cbc2c-4b5e-4b03-9973-ef7f60f49dd1,Andrew,K,Hall,Sr.,Cardiologist,Female,Native American,1961-01-09,64,8895323304
+ab5267e3-1073-4aa9-8c7f-a73a4dafa7b8,John,D,Thomas,Jr.,Pediatrician,Male,Asian,1964-11-14,61,6098011465
+b59d6436-d42a-48c8-85a2-580575f4ffeb,Jasmine,S,Hughes,Jr.,General Practitioner,Female,Native American,1945-05-12,80,1794857959
+a6728382-28c1-4fd8-bbb3-9015bec12dd7,Nicole,S,Mitchell,Jr.,Dentist,Female,Other,1996-10-30,29,4386786830
+b8b70484-5583-4159-95e9-47c6f06ec5a7,Cynthia,G,Harris,III,Cardiologist,Male,Hispanic or Latino,1971-03-07,54,1798889019
+064efeca-0ec8-4c83-b2a4-a1900ddc52b2,Robin,M,Marquez,None,Cardiologist,Female,White,1962-08-01,63,4033954912
+c5dc770f-c08e-4d9d-af82-b61c0067e29a,Michael,S,Scott,II,Dentist,Other,Other,1954-03-05,71,5411983623
+5154f4ea-d80b-4cf8-950d-cb0b595ff74e,Robert,K,Flores,III,General Practitioner,Other,White,1976-05-11,49,4804350343
+714f20b2-5386-4452-b1a7-3f2262a54217,Stacy,G,Stanley,III,General Practitioner,Male,Native American,1988-12-02,37,4242578476
+df4341ab-74af-4ef4-8afc-60802e985b04,Natalie,Q,Terrell,MD,Pediatrician,Other,Asian,1945-05-20,80,4455889277
+dcecaba6-c110-4944-9096-077a421e5d8e,Terry,Q,Jones,III,Dentist,Male,White,1988-09-17,37,6377811615
+aa50584e-7fd8-426c-81e2-c7abca432d73,April,K,Watson,II,Dentist,Female,Other,1997-01-03,28,2065258131
+33e42f6f-5966-4808-8f6c-e46a61013d3c,Thomas,E,Stevens,PhD,Neurologist,Female,Other,1948-11-18,77,3353176830
+e40bff9b-1c0e-48d2-b9c0-2b540f5dc04f,Michael,M,Hudson,II,General Practitioner,Female,Hispanic or Latino,1972-05-05,53,9220575400
+900e5451-973c-482b-8701-004e1acf580b,Andrea,O,Rodriguez,PhD,Cardiologist,Female,White,1994-05-22,31,8733557870
+c3cd0de3-0b51-4381-bd1a-9e6d7e5dec97,Wayne,N,Dominguez,MD,General Practitioner,Other,Black or African American,1976-06-09,49,3856475486
+314c19be-caab-419a-9c10-8a9e9cfddb28,Nicole,G,Pearson,PhD,Pediatrician,Female,Native American,1986-04-22,39,4764122602
+1ee80718-39ba-4bed-9f98-d6ce5549c946,Connie,R,Cook,MD,Dentist,Male,Other,1980-09-10,45,4977082449
+096998bd-8351-450b-b98c-301899859307,Carol,D,Williams,Sr.,Pediatrician,Other,Native American,1999-08-08,26,9297939287
+ab64347a-f38b-40fd-90d5-20c885c6e679,Brandon,D,Ward,Sr.,Neurologist,Other,Black or African American,1954-09-23,71,2373811364
+ec2d6740-5198-4689-a7d9-dcb55452fcd4,Jeanette,Q,Bruce,None,General Practitioner,Other,Black or African American,1967-10-05,58,1284990429
+16a5988b-3f8b-4312-bc84-c5ee6ab2fc75,Jessica,G,Barber,None,General Practitioner,Male,Native American,1984-05-01,41,6560094426
+ba00405e-ed31-46fc-b974-69ce131ef8f8,Anthony,Z,Mccarthy,PhD,Cardiologist,Other,Black or African American,1947-02-23,78,6678128870
+045320e7-3031-409d-85d0-6f1d380c265b,Charles,Q,White,PhD,Pediatrician,Male,Black or African American,1994-01-15,31,3151609700
+0de66b11-a981-47fe-9b72-f732c11c704a,Frederick,O,Evans,MD,Cardiologist,Female,Asian,1958-07-10,67,1967008888
+a4b33154-ac46-42ad-9b1e-d72ef5f19c6c,Jennifer,J,Ray,Jr.,Pediatrician,Male,Hispanic or Latino,1945-05-25,80,5919700489
+42c4744b-cdeb-45cf-b007-8272e09ea6a4,Nicolas,S,Jones,None,General Practitioner,Male,Native American,1965-06-08,60,3513554939
+933a8006-703b-451a-a41e-a0624b044d24,Daniel,F,White,None,Neurologist,Other,Other,1949-09-04,76,5796882195
+73e10821-f698-4ae5-b5dd-99e5ac13b76c,Patricia,N,Carter,Sr.,Pediatrician,Female,White,1960-04-06,65,9723098678
+ea3d9ae8-538b-4abf-87ad-0d05f0dc2e83,Bryan,S,Anderson,III,General Practitioner,Other,Native American,1967-09-13,58,4259829872
+74f36f4c-11c2-4737-956d-1e9430a872a8,Tara,U,Scott,Jr.,Neurologist,Female,Black or African American,1978-07-16,47,6748727298
+ec181938-449a-4e8e-be48-613096832010,Amy,B,Harris,None,Dentist,Female,Hispanic or Latino,1985-10-13,40,1506286018
+02b98aab-dd7c-4d23-9888-19aa7e4d8fbf,Vanessa,V,Abbott,Jr.,Dentist,Male,Asian,1980-07-19,45,3273184419
+84be3d2a-5bf6-4d4a-906a-2ca40276a8b0,Thomas,Y,Green,PhD,Cardiologist,Female,Hispanic or Latino,1995-05-19,30,6369961764
+c761aa3a-068f-49ae-ad7f-c2e6c2426ef5,Melissa,Z,Gutierrez,None,Cardiologist,Male,White,1993-11-10,32,1738723494
+5518b9a7-be91-4410-ba2e-c96afb90a2f6,David,T,Barry,II,Cardiologist,Male,White,1984-05-04,41,9991326554
+8b32d27b-ea03-4b1c-9aeb-de460ed75774,Jennifer,J,Reid,None,General Practitioner,Male,Asian,1977-10-25,48,5658018801
+81f340c7-c4ee-4ef2-ba27-f185356271ef,Katherine,A,Foster,Sr.,Neurologist,Female,Native American,1945-04-24,80,3530232053
+859028bd-9db7-484c-a02c-7e0d28ca8fed,Margaret,I,Smith,None,General Practitioner,Male,Black or African American,1965-12-09,60,1313374779
+f5d57ac6-8cd8-40b3-8236-1327057235f8,Jacob,Y,Hicks,Sr.,Pediatrician,Other,Other,1981-03-20,44,7036593579
+12d812b7-ee2e-4fbf-b4d6-f72b4624c260,Shannon,I,Nelson,II,Dentist,Male,Asian,1960-05-21,65,5895080648
+1dd3df6d-7b94-4acc-875c-c09634519631,Kimberly,E,Phillips,PhD,Dentist,Other,Asian,1968-09-16,57,6651091242
+a84b2779-e503-4a01-a98a-f06c0e435fc0,Jesus,P,Anderson,PhD,Pediatrician,Other,Other,1996-12-28,29,7777538778
+2f4eecb2-8180-4d3c-be05-3a480af378ea,Stephanie,X,Dominguez,Jr.,General Practitioner,Female,Hispanic or Latino,1980-08-02,45,2492184810
+7e78fd91-ace6-4387-8c75-c884ff9f3cde,Brett,Y,Webster,PhD,Pediatrician,Male,White,1957-04-26,68,7441158951
+172fa4df-4ab5-4e11-a9b1-f092613cfdd4,Jared,D,Baker,II,Pediatrician,Other,Asian,1948-07-19,77,9663782969
+f69e85af-f27f-48fa-bfa9-79aee4d2f583,Carlos,B,Johnson,MD,Pediatrician,Other,Black or African American,1947-12-14,78,3810512484
+8f5c822e-97ce-497b-a79a-e8d1b79784ab,Ryan,W,Shannon,Jr.,General Practitioner,Female,Native American,1986-12-26,39,1076294528
+59e8f48e-3232-494a-a83a-8a54e89848a0,Daryl,C,Nash,None,General Practitioner,Female,Asian,1986-02-24,39,3423244570
+d3c9a0bb-bd43-48c2-8201-5cebdc5a0a77,Kelly,K,Russo,II,Dentist,Other,Other,1966-05-23,59,8196237187
+7f721104-5c00-42cd-b919-29b7a0fa510c,Daniel,N,Smith,PhD,General Practitioner,Female,Other,1949-08-03,76,9571288795
+a9cf5e4d-9003-49e4-8fab-e49c8774002e,Travis,A,Montes,MD,Pediatrician,Female,Hispanic or Latino,1973-10-22,52,9321539804
+679bd6d1-3fa0-4e27-aa5a-7a43ee986e1f,Thomas,Z,Lee,PhD,Dentist,Other,Native American,1962-02-07,63,7247517425
+1b27430e-12e1-48e0-bef5-f48d4ebe346c,Melissa,X,Carr,Sr.,Cardiologist,Male,Black or African American,1965-02-02,60,9118969827
+3107f2b9-4773-4ee1-9d47-ccd182e690d6,Michael,X,Dougherty,Jr.,Pediatrician,Male,Native American,1959-05-22,66,8320085600
+e251fbd1-eb64-4fd0-965c-b43b9eaddbac,Stephen,F,Davis,None,General Practitioner,Male,Black or African American,1989-01-31,36,7770369127
+80629e7c-5888-442f-8c7a-b0df53bfff73,Barbara,Q,Harris,III,Pediatrician,Other,Asian,1976-06-14,49,7818987939
+51764151-8ada-409f-8a6c-c3fa90074449,Dennis,V,Turner,Jr.,General Practitioner,Male,Native American,1983-11-20,42,2343514932
+e3322659-82d6-4a7b-9b50-3176d5c64f15,Mary,G,Porter,PhD,Pediatrician,Male,Native American,1980-02-19,45,7755915522
+2eda7e23-97e5-4749-b5fc-4e19340bc706,Tabitha,Y,Burke,Jr.,Dentist,Female,Asian,1958-02-15,67,8802097056
+b858ed4f-e1a0-45c5-9a7c-da39ac5ba4f9,Brandon,T,Singh,PhD,Dentist,Other,Hispanic or Latino,1955-10-29,70,5997471628
+ecc42924-60f6-4adc-9fb2-43703f852795,Ethan,G,Fleming,III,Pediatrician,Other,Hispanic or Latino,1946-12-15,79,9271191570
+18aec44a-80be-4885-9c10-2108f64dde91,Candace,F,Smith,MD,Neurologist,Male,Native American,1962-10-16,63,4984675481
+04e7fb12-d950-4aef-834d-204f1a5b2e46,Victoria,D,Smith,None,Cardiologist,Female,Native American,1978-04-15,47,9646613686
+bae1e11d-50d3-4f39-9ce8-42306e023e48,Diane,J,Bowers,Jr.,Dentist,Other,Native American,1945-02-05,80,9875774842
+303baa56-150a-4d8c-95c4-cd24447a0b77,Joshua,I,Rose,MD,Cardiologist,Male,Native American,1973-03-04,52,1644025238
+2e09210b-88f7-4c4b-8468-8a1de611907e,Kimberly,O,Long,PhD,Dentist,Male,Other,1989-10-21,36,2258268109
+5ef4281a-019a-454d-b045-415a55f8ac0f,Richard,V,Sanford,II,General Practitioner,Other,White,1982-01-21,43,2615061741
+366cf19b-acd7-4840-b58e-cb0d48dd26d4,Catherine,W,Wheeler,Jr.,Cardiologist,Female,Asian,1965-12-25,60,2798195371
+be1f8b8f-e39e-4672-bb86-88c9b511ceb9,Carrie,O,Green,PhD,Dentist,Male,White,1987-08-09,38,2817080544
+2b342600-f375-40cf-a033-eecfa2bccec7,Juan,B,Roman,None,Dentist,Female,Native American,1980-03-24,45,7004456983
+e654ded6-e411-465f-aed8-861a8c313c49,Sierra,T,Bryant,Sr.,Pediatrician,Other,White,1968-06-06,57,1492786930
+ff1caf99-5456-46c1-bd4b-8c3d1d7caaeb,Bryce,K,Bennett,MD,Dentist,Female,White,1989-12-26,36,4066418880
+4a9d107a-704c-4248-8ad7-f2cc4e9134db,Tim,W,Smith,II,Pediatrician,Other,White,1956-03-20,69,4799286228
+117108b3-3f5b-4889-8f19-9f5ccd76b768,Anthony,I,Taylor,III,Cardiologist,Female,Asian,1987-11-12,38,8693838109
+a646862b-4b08-4422-9014-7798b3e0be68,Steven,D,Sellers,III,Dentist,Male,Native American,1995-07-27,30,8507802716
+991a1253-0997-487a-a49d-13a09c295ebb,Paula,M,Phillips,Jr.,Pediatrician,Female,Asian,1955-05-24,70,7294263532
+38edd323-57d5-4a0b-ad1c-b796f2df151a,Laura,K,Perez,PhD,Neurologist,Female,White,1957-05-24,68,7834837228
+00d31c07-7208-4406-8c44-029935e2593e,Michelle,K,Carpenter,PhD,Pediatrician,Other,Other,1997-03-08,28,4231214738
